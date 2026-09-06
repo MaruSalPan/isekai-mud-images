@@ -2045,6 +2045,25 @@
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/25.png",
       "sha256": "6f8095c344602f159d3ec3e670ff2e6f2aa15365909c76e5ab46d8776fa3b0c0",
       "status": "public_pushed"
+    },
+    {
+      "id": "caves/wuliang_collapsed_chamber",
+      "label": "무량산 붕괴 석실",
+      "tags": [
+        "동굴",
+        "석실",
+        "갱도",
+        "붕괴",
+        "얕은 물",
+        "해질녘",
+        "금속봉",
+        "무량산"
+      ],
+      "source_path": "references/scenes/caves/wuliang_collapsed_chamber.png",
+      "public_path": "scenes/caves/wuliang_collapsed_chamber.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/caves/wuliang_collapsed_chamber.png",
+      "sha256": "95f54dd9a71fb7252a47639a2089d74d99b6f8e161bd1f133525420795e1de7c",
+      "status": "public_pushed"
     }
   ]
 }
