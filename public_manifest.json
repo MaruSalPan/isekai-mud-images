@@ -1,0 +1,2050 @@
+{
+  "version": 1,
+  "public_repository": "MaruSalPan/isekai-mud-images",
+  "branch": "main",
+  "generated_at": "2026-09-07T02:36:49.0529166+09:00",
+  "usage": "Promote public_pushed assets to display_verified only after raw URL and UI display checks.",
+  "assets": [
+    {
+      "id": "objects/sword",
+      "label": "검",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/sword.png",
+      "public_path": "scenes/objects/sword.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/sword.png",
+      "sha256": "7c95dd7d23ef55fa3ea526ad6f53b11610ecdf0b65caf42e4c9ce0a925c5d53a",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/saber",
+      "label": "도",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/saber.png",
+      "public_path": "scenes/objects/saber.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/saber.png",
+      "sha256": "c8a825f855dcad8090be01bc7611e0f75076d0d6828a3326c8bf0eb62b4cf31f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/spear",
+      "label": "창",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/spear.png",
+      "public_path": "scenes/objects/spear.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/spear.png",
+      "sha256": "71233891b453f26d8c92fcb2c8b87750ab2eb7d7db2009ddaa8024c179028a39",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/staff",
+      "label": "봉",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/staff.png",
+      "public_path": "scenes/objects/staff.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/staff.png",
+      "sha256": "df6758e0abb28344542b4403b4bf2dacf126278f0f58b6126c996b2146415856",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/halberd",
+      "label": "가지창",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/halberd.png",
+      "public_path": "scenes/objects/halberd.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/halberd.png",
+      "sha256": "e46653b500497dfc903a6e6b4a736a672f99e52f07a82aa14f7ccb1d5c67a560",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/heavy_club",
+      "label": "철곤",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/heavy_club.png",
+      "public_path": "scenes/objects/heavy_club.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/heavy_club.png",
+      "sha256": "6af0611a1c4d6a84d1dd7fa44da6bda4e006150702aabf982d97df51170bd0a5",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/glaive",
+      "label": "곡날 장병기",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/glaive.png",
+      "public_path": "scenes/objects/glaive.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/glaive.png",
+      "sha256": "8491f44e2757369a59de8deedb04d2cd189ddc908167f1a4cc0b38096ea4adf4",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/chain_mace",
+      "label": "사슬 철퇴",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/chain_mace.png",
+      "public_path": "scenes/objects/chain_mace.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/chain_mace.png",
+      "sha256": "29a55f1fc139bcdd4f1c3ebea9253fe8b65ad5943ae969a58c56aa439d11921f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/mace",
+      "label": "철퇴",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/mace.png",
+      "public_path": "scenes/objects/mace.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/mace.png",
+      "sha256": "94354a508520f9ae9f5624b5dbfb0f008041c879ac5ff90c8a5a264b48f3132f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/straight_polearm",
+      "label": "직날 장병기",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/straight_polearm.png",
+      "public_path": "scenes/objects/straight_polearm.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/straight_polearm.png",
+      "sha256": "95aa75ee51759240bc10efa3c1b63144b933f1cda69de038e96f0bb585e9d281",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/hooked_polearm",
+      "label": "갈고리 장병기",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/hooked_polearm.png",
+      "public_path": "scenes/objects/hooked_polearm.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/hooked_polearm.png",
+      "sha256": "db02ac784b0dba9fd1652f096481886e8d83b41688d799f8dc30bea53d209d84",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/trident",
+      "label": "삼지창",
+      "tags": [
+        "병기",
+        "장병기"
+      ],
+      "source_path": "references/scenes/objects/trident.png",
+      "public_path": "scenes/objects/trident.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/trident.png",
+      "sha256": "36b3d7c775aa85fe6148ff93bf82b686d41642e04d49571edca11c25be4e1232",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/dagger",
+      "label": "단도",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/dagger.png",
+      "public_path": "scenes/objects/dagger.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/dagger.png",
+      "sha256": "75471172c9970c614a55ba5f988298e32515e71d7815c736ae182b0e426b45c8",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/paired_sabers",
+      "label": "쌍도",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/paired_sabers.png",
+      "public_path": "scenes/objects/paired_sabers.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/paired_sabers.png",
+      "sha256": "a09f8cc8b8b474448a753e1b3eff6fac99aa6e9159ce87e9c0eea002f5abd4e9",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/paired_swords",
+      "label": "쌍검",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/paired_swords.png",
+      "public_path": "scenes/objects/paired_swords.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/paired_swords.png",
+      "sha256": "2c5fb693b34701a81935b0af2156547a6931fbe7311392a988f18e20f79fd56c",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/nunchaku",
+      "label": "쌍절곤",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/nunchaku.png",
+      "public_path": "scenes/objects/nunchaku.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/nunchaku.png",
+      "sha256": "615390b9759eb3393f78b4b7aef1b757b582a58c83f7b0836c6afae7111ec4c8",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/fan",
+      "label": "부채",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/fan.png",
+      "public_path": "scenes/objects/fan.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/fan.png",
+      "sha256": "c1e0a4e2d80a1264d79524ece8d729157c8d72ed53052ef99c07efae3f69de06",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/umbrella",
+      "label": "우산",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/umbrella.png",
+      "public_path": "scenes/objects/umbrella.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/umbrella.png",
+      "sha256": "d23d519c1175e3d1d33404dc3b6bed64e81ac32bd270107c284f2dc0d16b02c7",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/claw_gauntlet",
+      "label": "발톱 장갑",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/claw_gauntlet.png",
+      "public_path": "scenes/objects/claw_gauntlet.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/claw_gauntlet.png",
+      "sha256": "fa1f724c6d6c00e8ca9713ca3a7820bbd3f2b3cdc01ca4f54987773b2f215f41",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/ring_blade",
+      "label": "고리 손잡이 칼날",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/ring_blade.png",
+      "public_path": "scenes/objects/ring_blade.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/ring_blade.png",
+      "sha256": "4e9e8d9c9c2b9e71dfd46023048d82fae0428d2e788935662324f2568ebc6df8",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/throwing_blades",
+      "label": "투척 칼날",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/throwing_blades.png",
+      "public_path": "scenes/objects/throwing_blades.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/throwing_blades.png",
+      "sha256": "87b4328890fef2912ffbccd4ceb3bee1bff4f444137b12b9b11d5b273cbcb33f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/darts",
+      "label": "금속 다트",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/darts.png",
+      "public_path": "scenes/objects/darts.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/darts.png",
+      "sha256": "f345863bea20c2f260bdeb3a545f75fe7e429ff7fe169b24885ce86aeea6c3c2",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/meteor_hammer",
+      "label": "유성추",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/meteor_hammer.png",
+      "public_path": "scenes/objects/meteor_hammer.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/meteor_hammer.png",
+      "sha256": "b062c9bf44f82110e03e663fc8716a7900ca027811b6e8a73e4f1edfdeed60cd",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/rope_whip",
+      "label": "밧줄 채찍",
+      "tags": [
+        "병기",
+        "단병기"
+      ],
+      "source_path": "references/scenes/objects/rope_whip.png",
+      "public_path": "scenes/objects/rope_whip.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/rope_whip.png",
+      "sha256": "b67cc1799d8041424c43fd69947220978add0b4f311d3faf15e1065a8bd5d028",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/bow",
+      "label": "활과 화살통",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/bow.png",
+      "public_path": "scenes/objects/bow.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/bow.png",
+      "sha256": "df6ac315deca93ed8f7f6c36984753e7b0c4a0e80efa987752170850c84dedf7",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/crossbow",
+      "label": "석궁",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/crossbow.png",
+      "public_path": "scenes/objects/crossbow.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/crossbow.png",
+      "sha256": "42058f7e40e1f964430d6f50ef4bcc8971e39ed360c4718687e1e39e17ecaf14",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/throwing_knives",
+      "label": "비도",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/throwing_knives.png",
+      "public_path": "scenes/objects/throwing_knives.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/throwing_knives.png",
+      "sha256": "89c132b69ee85db0f601d5cc4dfd5050973096e55cf11b0a24d6dbe1c5e5b6af",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/throwing_stars",
+      "label": "표창",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/throwing_stars.png",
+      "public_path": "scenes/objects/throwing_stars.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/throwing_stars.png",
+      "sha256": "a98958069442ad2dfbbe6133632bd9c45472e958ff9b3ac4786ec82bb0c354fe",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/arrows",
+      "label": "화살",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/arrows.png",
+      "public_path": "scenes/objects/arrows.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/arrows.png",
+      "sha256": "b627e72a4409433f02d11799cb65644ca1c9b6382114c67b787efac35794491c",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/needle_weapon",
+      "label": "침과 침통",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/needle_weapon.png",
+      "public_path": "scenes/objects/needle_weapon.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/needle_weapon.png",
+      "sha256": "b7a87dbc28893a79897f3a28902fa72a409faba1c8eef103345bd689e646bccd",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/linked_rings",
+      "label": "연결 고리",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/linked_rings.png",
+      "public_path": "scenes/objects/linked_rings.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/linked_rings.png",
+      "sha256": "d3facaf8a0607d66b9b1797d75a21d63fe7534f38759c6d1d5d874baec35fa79",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/curved_blade",
+      "label": "곡도와 칼집",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/curved_blade.png",
+      "public_path": "scenes/objects/curved_blade.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/curved_blade.png",
+      "sha256": "38cfd59afee61f4a6b78b4d1a2c04e3a1e0b2f6709e47850358770b848159d75",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/pellet_device",
+      "label": "금속 통과 탄환",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/pellet_device.png",
+      "public_path": "scenes/objects/pellet_device.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/pellet_device.png",
+      "sha256": "d55bee5e47b1bf55a9243e4e21cf2ad60393b3864200ee39436312169cc2c226",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/powder_gourds",
+      "label": "화약 호리병",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/powder_gourds.png",
+      "public_path": "scenes/objects/powder_gourds.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/powder_gourds.png",
+      "sha256": "041c892934750813ed7d4691cb3f8bf6a25a4fa0802deeaac329cf7d7a78c523",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/smoke_bomb",
+      "label": "연막탄",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/smoke_bomb.png",
+      "public_path": "scenes/objects/smoke_bomb.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/smoke_bomb.png",
+      "sha256": "63ca7b3b54e621a38f0890c51689de3a9e293e581f3d277ccbf4d45b8511d7e0",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/signal_tube",
+      "label": "신호통",
+      "tags": [
+        "병기",
+        "원거리",
+        "암기"
+      ],
+      "source_path": "references/scenes/objects/signal_tube.png",
+      "public_path": "scenes/objects/signal_tube.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/signal_tube.png",
+      "sha256": "d5d33e031182e779e915bbd78c7e1bc1040d3fddb1182bbafdc65a265c2c32f6",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/wine_gourd",
+      "label": "호리병",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/wine_gourd.png",
+      "public_path": "scenes/objects/wine_gourd.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/wine_gourd.png",
+      "sha256": "bdf010d3406f0a171437dd2ef2072bf66ec01294ea959944d741742a3e891f71",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/wine_cup",
+      "label": "술잔",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/wine_cup.png",
+      "public_path": "scenes/objects/wine_cup.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/wine_cup.png",
+      "sha256": "a91ad459575cee83f5c81e0ff359e42eecc69f0546fa37ffd430e1808cbb0b48",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/teapot",
+      "label": "찻주전자",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/teapot.png",
+      "public_path": "scenes/objects/teapot.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/teapot.png",
+      "sha256": "e8a8e94b4d61a69a1fb4ab9ff66204de2b324dbacf870ccb31348ee35d81a747",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/tableware",
+      "label": "식기",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/tableware.png",
+      "public_path": "scenes/objects/tableware.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/tableware.png",
+      "sha256": "159461af64cb7efeea0ba02efeb2fceb51a4c1720ea33d28784d3a9c0e7afe4b",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/medicine_pouch",
+      "label": "약낭",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/medicine_pouch.png",
+      "public_path": "scenes/objects/medicine_pouch.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/medicine_pouch.png",
+      "sha256": "189a020251fc7199bae6486d5a2522c3a18e8e159f458c8512fb563581d7f420",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/needle_case",
+      "label": "침통과 침",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/needle_case.png",
+      "public_path": "scenes/objects/needle_case.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/needle_case.png",
+      "sha256": "21b68ca4e75a206456350cbe731bca1cedd86c2a82c616e968e3416374c4e34d",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/map",
+      "label": "지도",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/map.png",
+      "public_path": "scenes/objects/map.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/map.png",
+      "sha256": "f019662e603a0947394488347a361c48d1515ed13606ac5ced8fc1e7186b768d",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/compass",
+      "label": "나침반",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/compass.png",
+      "public_path": "scenes/objects/compass.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/compass.png",
+      "sha256": "011e6472600c560aaf90e2a64ba161dfbcb05a407a1f81d9398d4130928da3b4",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/lantern",
+      "label": "등롱",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/lantern.png",
+      "public_path": "scenes/objects/lantern.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/lantern.png",
+      "sha256": "38192fe817514ae79c83d6393e335498a4b68ce3c6fbb1cb78129b150a8d5bb8",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/brazier",
+      "label": "화로",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/brazier.png",
+      "public_path": "scenes/objects/brazier.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/brazier.png",
+      "sha256": "000255cdf9ee3a8babc925419a3d8e704b474594f006fad0875ecea5f7769a75",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/telescope",
+      "label": "망원경",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/telescope.png",
+      "public_path": "scenes/objects/telescope.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/telescope.png",
+      "sha256": "69e835abbf6117a3997b73a189d2bc07ed1bc63d7c195b058623ffd06494fa57",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/scrolls",
+      "label": "두루마리",
+      "tags": [
+        "기물",
+        "생활도구"
+      ],
+      "source_path": "references/scenes/objects/scrolls.png",
+      "public_path": "scenes/objects/scrolls.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/scrolls.png",
+      "sha256": "2aa0e4d3ec32db58e55defcfd9ec97a6972c24140a2ccb6f19066b94d70767ea",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/horse",
+      "label": "말",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/horse.png",
+      "public_path": "scenes/objects/horse.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/horse.png",
+      "sha256": "89af846a934784cf0eba33c4c3efd1e3c767f5a6add408ea9e4cee6f3d2cf797",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/carriage",
+      "label": "마차",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/carriage.png",
+      "public_path": "scenes/objects/carriage.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/carriage.png",
+      "sha256": "92f2bcd1df2d335223f15d5167042dee2ea637c844dcfabec94311dc1d58103d",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/boat",
+      "label": "배",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/boat.png",
+      "public_path": "scenes/objects/boat.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/boat.png",
+      "sha256": "8da4eac2cb97d75dadc83077fdae451b8667d3db87289306248f9bfcdfff6d49",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/sedan_chair",
+      "label": "가마",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/sedan_chair.png",
+      "public_path": "scenes/objects/sedan_chair.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/sedan_chair.png",
+      "sha256": "a1faf398da8c058b340bd1dd727786523062af6b63db68f6a14f2b119ec081e5",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/tent",
+      "label": "장막",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/tent.png",
+      "public_path": "scenes/objects/tent.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/tent.png",
+      "sha256": "79a188398c9f843162b63dab5c1a5954cf5f37888aa70a6b8818ce647f5e6afd",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/bed",
+      "label": "침상",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/bed.png",
+      "public_path": "scenes/objects/bed.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/bed.png",
+      "sha256": "ece58d3341753224fe9033db5f00a9e7b6da824e07e785b471431428d1052ce1",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/books",
+      "label": "책",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/books.png",
+      "public_path": "scenes/objects/books.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/books.png",
+      "sha256": "e382fcba0625fcd0df9a619a49d7accf0003ff3d0377a34c2a6e4e0aaeaa0378",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/writing_desk",
+      "label": "서안",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/writing_desk.png",
+      "public_path": "scenes/objects/writing_desk.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/writing_desk.png",
+      "sha256": "645c6dbc744df2de44f2251189990cbb671d4a6c0a87b6fcb2d895f9d42d9288",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/zither",
+      "label": "현악기",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/zither.png",
+      "public_path": "scenes/objects/zither.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/zither.png",
+      "sha256": "289090cf94522145917201afbc31233813c99afee6fcf8a178790a8a9143d21e",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/go_board",
+      "label": "바둑",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/go_board.png",
+      "public_path": "scenes/objects/go_board.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/go_board.png",
+      "sha256": "92e83994d54e6ce25a29c32cb77d69bc694d2a0b5ffe069017af0335bcc7e1d3",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/chess_board",
+      "label": "장기",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/chess_board.png",
+      "public_path": "scenes/objects/chess_board.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/chess_board.png",
+      "sha256": "f61d5d768e517768dbbaed6fbd144690e05e15bd7405f546fe70255ec08c99a1",
+      "status": "public_pushed"
+    },
+    {
+      "id": "objects/dice",
+      "label": "주사위",
+      "tags": [
+        "생활",
+        "기물"
+      ],
+      "source_path": "references/scenes/objects/dice.png",
+      "public_path": "scenes/objects/dice.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/dice.png",
+      "sha256": "2a4fb6433bdc522298dafb6919c034c67642301d679429e290897c24c0c3abdd",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/inn_street",
+      "label": "객잔 거리",
+      "tags": [
+        "배경",
+        "여행",
+        "객잔 거리"
+      ],
+      "source_path": "references/scenes/landscapes/inn_street.png",
+      "public_path": "scenes/landscapes/inn_street.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/inn_street.png",
+      "sha256": "8d95643f903992108f2f22e27759ed29b5e1063b85ffca3244e4d4da1e2e1107",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/riverside_dock",
+      "label": "강가 나루터",
+      "tags": [
+        "배경",
+        "여행",
+        "강가 나루터"
+      ],
+      "source_path": "references/scenes/landscapes/riverside_dock.png",
+      "public_path": "scenes/landscapes/riverside_dock.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/riverside_dock.png",
+      "sha256": "9ae23940e603a8d09dd46fdfe87ff6968bfcb203615c671eb327f81863d55ea5",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/mountain_path",
+      "label": "산길",
+      "tags": [
+        "배경",
+        "여행",
+        "산길"
+      ],
+      "source_path": "references/scenes/landscapes/mountain_path.png",
+      "public_path": "scenes/landscapes/mountain_path.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mountain_path.png",
+      "sha256": "a1a985846752a31f4d9cba510f3ad36f56fd0bf9764daacdd265d54528edbdee",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/mountain_temple",
+      "label": "산중 사찰",
+      "tags": [
+        "배경",
+        "여행",
+        "산중 사찰"
+      ],
+      "source_path": "references/scenes/landscapes/mountain_temple.png",
+      "public_path": "scenes/landscapes/mountain_temple.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mountain_temple.png",
+      "sha256": "b7f7895f9d9182b7a1e38e27039489b9e1238d2cba15bd9bcbefcaa2ae99e5f3",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/bamboo_forest",
+      "label": "대나무숲",
+      "tags": [
+        "배경",
+        "여행",
+        "대나무숲"
+      ],
+      "source_path": "references/scenes/landscapes/bamboo_forest.png",
+      "public_path": "scenes/landscapes/bamboo_forest.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/bamboo_forest.png",
+      "sha256": "243cdb242b619b4da87f814764194ceb23ec0998b8191e902f23a16af51ade1c",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/grassland",
+      "label": "초원",
+      "tags": [
+        "배경",
+        "여행",
+        "초원"
+      ],
+      "source_path": "references/scenes/landscapes/grassland.png",
+      "public_path": "scenes/landscapes/grassland.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/grassland.png",
+      "sha256": "c3b746fee73000d4f742b59c95d333f22f8200c18a15a5e7eb08cfe36223addb",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/waterfall",
+      "label": "폭포",
+      "tags": [
+        "배경",
+        "여행",
+        "폭포"
+      ],
+      "source_path": "references/scenes/landscapes/waterfall.png",
+      "public_path": "scenes/landscapes/waterfall.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/waterfall.png",
+      "sha256": "ab4e81323e8dd0a7bf3ed35fc187f13a5d44421616b79fb8a0b29387ab9ef131",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/snow_mountain",
+      "label": "설산",
+      "tags": [
+        "배경",
+        "여행",
+        "설산"
+      ],
+      "source_path": "references/scenes/landscapes/snow_mountain.png",
+      "public_path": "scenes/landscapes/snow_mountain.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/snow_mountain.png",
+      "sha256": "41ae3b3a52174c81c6e3e779607abb930201824a9cf5cbe312e0bc6a7fd37caa",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/lake_pavilion",
+      "label": "호수와 정자",
+      "tags": [
+        "배경",
+        "여행",
+        "호수와 정자"
+      ],
+      "source_path": "references/scenes/landscapes/lake_pavilion.png",
+      "public_path": "scenes/landscapes/lake_pavilion.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/lake_pavilion.png",
+      "sha256": "dfc979a47c49f4a9c01dd3685fac4dc9c791a4014e89f669fc0dee88d9335fba",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/city_gate",
+      "label": "성문",
+      "tags": [
+        "배경",
+        "여행",
+        "성문"
+      ],
+      "source_path": "references/scenes/landscapes/city_gate.png",
+      "public_path": "scenes/landscapes/city_gate.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/city_gate.png",
+      "sha256": "1115389d617c803d136ae00464a857e36814035c64df5df14454b598fd69f792",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/water_town_night",
+      "label": "수향 야경",
+      "tags": [
+        "배경",
+        "여행",
+        "수향 야경"
+      ],
+      "source_path": "references/scenes/landscapes/water_town_night.png",
+      "public_path": "scenes/landscapes/water_town_night.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/water_town_night.png",
+      "sha256": "c886b96d2de06b3c0699a986fc628567b3dd9844bcfdcd673d4b425ab50004b9",
+      "status": "public_pushed"
+    },
+    {
+      "id": "landscapes/gorge_path",
+      "label": "협곡 잔도",
+      "tags": [
+        "배경",
+        "여행",
+        "협곡 잔도"
+      ],
+      "source_path": "references/scenes/landscapes/gorge_path.png",
+      "public_path": "scenes/landscapes/gorge_path.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/gorge_path.png",
+      "sha256": "b1ea4a1e4df208f187b156bca900c9c675c39fd000545a698ce2f3b833380a02",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/staff_clash",
+      "label": "봉과 병기 충돌",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/staff_clash.png",
+      "public_path": "scenes/combat/staff_clash.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/staff_clash.png",
+      "sha256": "30e847b387bb0ffcab3af7be6526f1f9ac2769e51ca74c5be949cad3fcc289cc",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/moonlit_duel",
+      "label": "달밤 대결",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/moonlit_duel.png",
+      "public_path": "scenes/combat/moonlit_duel.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/moonlit_duel.png",
+      "sha256": "0c8db9e49475c8ee4f15202c806ff9e793af9f5a09c61f9131a5770a699a203e",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/polearm_strike",
+      "label": "장병기 공격",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/polearm_strike.png",
+      "public_path": "scenes/combat/polearm_strike.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/polearm_strike.png",
+      "sha256": "e9eb9a43ffc01b9a2051fde7616952693588549f0133c7e14328c2d94fe36e18",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/bamboo_melee",
+      "label": "대숲 다대일",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/bamboo_melee.png",
+      "public_path": "scenes/combat/bamboo_melee.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/bamboo_melee.png",
+      "sha256": "5b9bf891ec8854def1b0c201f21f3b8550971e655dc4e0b45aa08820116347cd",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/battlefield_aftermath",
+      "label": "전장 이후",
+      "tags": [
+        "전투",
+        "김형무",
+        "결과 장면",
+        "종료 후만"
+      ],
+      "source_path": "references/scenes/combat/battlefield_aftermath.png",
+      "public_path": "scenes/combat/battlefield_aftermath.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/battlefield_aftermath.png",
+      "sha256": "04367df7cbf3b21568ca645396cb55886bfa6afd46d348bf936878b96e945891",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/waterfall_duel",
+      "label": "폭포 앞 대결",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/waterfall_duel.png",
+      "public_path": "scenes/combat/waterfall_duel.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/waterfall_duel.png",
+      "sha256": "fddacbb938700ef9af80837e406931699718ac991870de719a83634b7dc44766",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/close_clash",
+      "label": "근접 공방",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/close_clash.png",
+      "public_path": "scenes/combat/close_clash.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/close_clash.png",
+      "sha256": "03143e5a8b9c57c288542fe41d25831e512d5634d7e7b4a72471681acb8a8ed1",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/sweeping_attack",
+      "label": "회전 공격",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/sweeping_attack.png",
+      "public_path": "scenes/combat/sweeping_attack.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/sweeping_attack.png",
+      "sha256": "c74abd83ce173d1c75362e4ed741d5263225058070a783469d4569f320c3f4f9",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/rainy_street_duel",
+      "label": "빗속 거리 대결",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/rainy_street_duel.png",
+      "public_path": "scenes/combat/rainy_street_duel.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/rainy_street_duel.png",
+      "sha256": "bee21e72786f0b9204faf03ebc96375f541c9720537bf31752f72b2162827d6c",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/aerial_duel",
+      "label": "공중 대결",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/aerial_duel.png",
+      "public_path": "scenes/combat/aerial_duel.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/aerial_duel.png",
+      "sha256": "033fde2d0a7eb54836b35ea1a4db95166885984005f2e13a3d36138ffef7879a",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/strike_closeup",
+      "label": "공격 자세",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/strike_closeup.png",
+      "public_path": "scenes/combat/strike_closeup.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/strike_closeup.png",
+      "sha256": "8e714c4eaa1dfbd5dd2f5d74b04646c995a62b460728bd0d09a7f89370f6ac7e",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/courtyard_melee",
+      "label": "마당 다대일",
+      "tags": [
+        "전투",
+        "김형무",
+        "공방"
+      ],
+      "source_path": "references/scenes/combat/courtyard_melee.png",
+      "public_path": "scenes/combat/courtyard_melee.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/courtyard_melee.png",
+      "sha256": "8de20b9eda677392e25f8498348858813d406670971bc49e0ffa97b1795dd793",
+      "status": "public_pushed"
+    },
+    {
+      "id": "combat/lakeside_aftermath",
+      "label": "호숫가 전투 이후",
+      "tags": [
+        "전투",
+        "김형무",
+        "결과 장면",
+        "종료 후만"
+      ],
+      "source_path": "references/scenes/combat/lakeside_aftermath.png",
+      "public_path": "scenes/combat/lakeside_aftermath.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/lakeside_aftermath.png",
+      "sha256": "b6dfb5f67a88f40254d00f13217e23873415985326430bc9e8cf3a115d1d17aa",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/kaifeng",
+      "label": "개봉 성곽",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "개봉 성곽"
+      ],
+      "source_path": "references/scenes/regions/kaifeng.png",
+      "public_path": "scenes/regions/kaifeng.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/kaifeng.png",
+      "sha256": "08641d756b320278718343346bbe5d8c7ebe461239fc5a974b006a84a7522391",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/beijing",
+      "label": "북경 도성",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "북경 도성"
+      ],
+      "source_path": "references/scenes/regions/beijing.png",
+      "public_path": "scenes/regions/beijing.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/beijing.png",
+      "sha256": "f2222e3459aa2e19f4dc98b6525f0d8b3ba6f290b8e550b91913e6b75982f287",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/huashan",
+      "label": "화산",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "화산"
+      ],
+      "source_path": "references/scenes/regions/huashan.png",
+      "public_path": "scenes/regions/huashan.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/huashan.png",
+      "sha256": "c7e2dd6bfa74d18fd79cb9b0c7e4d8262bd64c03ad18cdc5fb53f2f890b86386",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/hangzhou",
+      "label": "항주",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "항주"
+      ],
+      "source_path": "references/scenes/regions/hangzhou.png",
+      "public_path": "scenes/regions/hangzhou.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/hangzhou.png",
+      "sha256": "f4d4732fe12f3ae7cc0f2f973a19b48b2d8aa124b5920524ffd165f70a1b0889",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/three_gorges",
+      "label": "삼협",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "삼협"
+      ],
+      "source_path": "references/scenes/regions/three_gorges.png",
+      "public_path": "scenes/regions/three_gorges.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/three_gorges.png",
+      "sha256": "8e40a4ddb4582d4016f5b54231bef6f7f3dc3071439d2f6bcdf2c0da2bc79628",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/tibet",
+      "label": "티베트",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "티베트"
+      ],
+      "source_path": "references/scenes/regions/tibet.png",
+      "public_path": "scenes/regions/tibet.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/tibet.png",
+      "sha256": "caa99c2985b611de08005429fd62e786b7c687de5a90a6d4a9391e1bd35a8420",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/dunhuang",
+      "label": "돈황",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "돈황"
+      ],
+      "source_path": "references/scenes/regions/dunhuang.png",
+      "public_path": "scenes/regions/dunhuang.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/dunhuang.png",
+      "sha256": "f40efe943c966987e72468cde7bfd7c561af4354e72baacdfbaec2a947f7dc38",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/yangzhou",
+      "label": "양주",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "양주"
+      ],
+      "source_path": "references/scenes/regions/yangzhou.png",
+      "public_path": "scenes/regions/yangzhou.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/yangzhou.png",
+      "sha256": "c2da63ccb284d01bb2daf11d1a91bb33c4e83995815d8ade18e81e064b6478d0",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/chengdu",
+      "label": "성도",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "성도"
+      ],
+      "source_path": "references/scenes/regions/chengdu.png",
+      "public_path": "scenes/regions/chengdu.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/chengdu.png",
+      "sha256": "a315ec9be0b28f4a72b78da30d04e94b50537fd3269a74e10f16913bb7c83d5f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/shaolin",
+      "label": "소림사",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "소림사"
+      ],
+      "source_path": "references/scenes/regions/shaolin.png",
+      "public_path": "scenes/regions/shaolin.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/shaolin.png",
+      "sha256": "097dba80ce5642b17354872c412c3edfb3ba381fc9f20c49dfc53972b939cc9d",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/wudang",
+      "label": "무당산",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "무당산"
+      ],
+      "source_path": "references/scenes/regions/wudang.png",
+      "public_path": "scenes/regions/wudang.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/wudang.png",
+      "sha256": "e7b0042cc8d10107ec83b5bcbfd012318394d44b4d18563eeba74984ca3f8986",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/unverified_mountain_temple",
+      "label": "산중 사찰 — 원문 진소림, 명칭 미확인",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "산중 사찰 — 원문 진소림",
+        " 명칭 미확인"
+      ],
+      "source_path": "references/scenes/regions/unverified_mountain_temple.png",
+      "public_path": "scenes/regions/unverified_mountain_temple.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/unverified_mountain_temple.png",
+      "sha256": "6768f3ec59d31b7a04766c9956be0e9ceef2e1ae32b905476840b4cb65d6455e",
+      "status": "public_pushed"
+    },
+    {
+      "id": "regions/fujian",
+      "label": "복건",
+      "tags": [
+        "지역 배경",
+        "상상화",
+        "복건"
+      ],
+      "source_path": "references/scenes/regions/fujian.png",
+      "public_path": "scenes/regions/fujian.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/fujian.png",
+      "sha256": "c26d6c7af0304cf780e5b5acf70f7392f5809d499a06a034f90895a4832d26da",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/01",
+      "label": "봉 겨누기",
+      "tags": [
+        "staff_life",
+        "봉 겨누기",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/01.png",
+      "public_path": "scenes/staff_life/01.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/01.png",
+      "sha256": "4a99bbe305638f42d74715381627432023e4ed577e092c6aaf1eb4755ffe0d7f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/02",
+      "label": "봉 회전",
+      "tags": [
+        "staff_life",
+        "봉 회전",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/02.png",
+      "public_path": "scenes/staff_life/02.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/02.png",
+      "sha256": "b718bd29252ab8d5d653452e6812daa8be39bc3e68f14576df9129b8d5fb291c",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/03",
+      "label": "공중 봉 자세",
+      "tags": [
+        "staff_life",
+        "공중 봉 자세",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/03.png",
+      "public_path": "scenes/staff_life/03.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/03.png",
+      "sha256": "8ed30e543c20719266c9ead5bb921d4242d0c740bc4ba6843de63a1625b02c88",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/04",
+      "label": "내려치기",
+      "tags": [
+        "staff_life",
+        "내려치기",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/04.png",
+      "public_path": "scenes/staff_life/04.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/04.png",
+      "sha256": "a036b6d88a20372261fa9cdab95fc61ecaecccaee6448fc9c47aaaf3c0aeb526",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/05",
+      "label": "봉 돌진",
+      "tags": [
+        "staff_life",
+        "봉 돌진",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/05.png",
+      "public_path": "scenes/staff_life/05.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/05.png",
+      "sha256": "2e0f97bdb43e1710a58d800e2b04e776362c49d9b077a4bfa36ca1d1c862abb7",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/06",
+      "label": "포위 공방",
+      "tags": [
+        "staff_life",
+        "포위 공방",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/06.png",
+      "public_path": "scenes/staff_life/06.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/06.png",
+      "sha256": "d3adfa4e3603545c1f1d837cc4b2a1ff3143f5c04450aaaed9161af4c5d92497",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/07",
+      "label": "다대일 휩쓸기",
+      "tags": [
+        "staff_life",
+        "다대일 휩쓸기",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/07.png",
+      "public_path": "scenes/staff_life/07.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/07.png",
+      "sha256": "1e0282ed2d197782f27dc26afa1552d85cb4fdd408997fd353c52ae16b088951",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/08",
+      "label": "객잔 앞 공중 공방",
+      "tags": [
+        "staff_life",
+        "객잔 앞 공중 공방",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/08.png",
+      "public_path": "scenes/staff_life/08.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/08.png",
+      "sha256": "3472b581b0129677edf408039fc6bdd84140f673526cbc6e9b6efda26f9ec5d1",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/09",
+      "label": "물가 공방",
+      "tags": [
+        "staff_life",
+        "물가 공방",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/09.png",
+      "public_path": "scenes/staff_life/09.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/09.png",
+      "sha256": "de5d66e25648cace88b5b091ac0d960439790cff70f85260efb8460ec1323db3",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/10",
+      "label": "일출 휴식",
+      "tags": [
+        "staff_life",
+        "일출 휴식",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/10.png",
+      "public_path": "scenes/staff_life/10.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/10.png",
+      "sha256": "f983eb642c7077555e0e6cef7be4fe0d1263dac51820f2f9151fb2d6c0f4512b",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/11",
+      "label": "좌선",
+      "tags": [
+        "staff_life",
+        "좌선",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/11.png",
+      "public_path": "scenes/staff_life/11.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/11.png",
+      "sha256": "116b41536963cc8fbc58350279083512256e5b17b555513b0fd40266070730b4",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/12",
+      "label": "기지개",
+      "tags": [
+        "staff_life",
+        "기지개",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/12.png",
+      "public_path": "scenes/staff_life/12.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/12.png",
+      "sha256": "08d6b0b37d37ae4c2a0fc82f9d4d20f62471c727b490de7d4dd0eb84d77430fe",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/13",
+      "label": "세수",
+      "tags": [
+        "staff_life",
+        "세수",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/13.png",
+      "public_path": "scenes/staff_life/13.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/13.png",
+      "sha256": "7f85fe86d825d2ea1f94a81e55641a171916fd99b88ab07a2407c02686ff2568",
+      "status": "public_pushed"
+    },
+    {
+      "id": "staff_life/14",
+      "label": "차와 휴식",
+      "tags": [
+        "staff_life",
+        "차와 휴식",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/staff_life/14.png",
+      "public_path": "scenes/staff_life/14.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/14.png",
+      "sha256": "519539a82aeb2ac3062bd7611bb920da7f60d3ec41c28d38194b4da262db16d2",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/01",
+      "label": "객잔 외관",
+      "tags": [
+        "town_life",
+        "객잔 외관",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/01.png",
+      "public_path": "scenes/town_life/01.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/01.png",
+      "sha256": "2e70bb8f5cdb5e8dfcef27bf80781cd2a00c3bbe6a7c77a1732bc0192bb19914",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/02",
+      "label": "객잔 내부",
+      "tags": [
+        "town_life",
+        "객잔 내부",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/02.png",
+      "public_path": "scenes/town_life/02.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/02.png",
+      "sha256": "fca3c368ea4706ef549aba5b55c48d82759c389855e917311af4b340c6df5a1f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/03",
+      "label": "유흥가 건물",
+      "tags": [
+        "town_life",
+        "유흥가 건물",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/03.png",
+      "public_path": "scenes/town_life/03.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/03.png",
+      "sha256": "3c47b0173b5de75aff78c78df4859e5f2ad0132459f998b331698fb2fbbef43f",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/04",
+      "label": "실내 연주와 모임",
+      "tags": [
+        "town_life",
+        "실내 연주와 모임",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/04.png",
+      "public_path": "scenes/town_life/04.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/04.png",
+      "sha256": "aa6862695623bee2708f6a8dc7d719ad5d82ab0a7ec358d90c7329659b0bae7e",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/05",
+      "label": "시장 입구",
+      "tags": [
+        "town_life",
+        "시장 입구",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/05.png",
+      "public_path": "scenes/town_life/05.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/05.png",
+      "sha256": "f2c3606d91827f7f3c54cf0531900aee18da67435cb540dd590d2590c93a8125",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/06",
+      "label": "시장 거리",
+      "tags": [
+        "town_life",
+        "시장 거리",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/06.png",
+      "public_path": "scenes/town_life/06.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/06.png",
+      "sha256": "2ef9a0ae6d8ec7f1ae527eff1231d20e97ccf923912d1fcb1600d801c5269182",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/07",
+      "label": "음식 노점",
+      "tags": [
+        "town_life",
+        "음식 노점",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/07.png",
+      "public_path": "scenes/town_life/07.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/07.png",
+      "sha256": "bc30a6d887af8ece152d1683e75d07b27b167e59942d581c76b0fd1bca545144",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/08",
+      "label": "등불 골목",
+      "tags": [
+        "town_life",
+        "등불 골목",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/08.png",
+      "public_path": "scenes/town_life/08.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/08.png",
+      "sha256": "946bd779441263a237875bba6261c35dcb22b89a026d36c5dec22ad5ecf8bc1d",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/09",
+      "label": "수향 다리",
+      "tags": [
+        "town_life",
+        "수향 다리",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/09.png",
+      "public_path": "scenes/town_life/09.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/09.png",
+      "sha256": "fa0017c126c3f8dd269cb451a20148af756dfee1c4ce0644db35c7c3178a7751",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/10",
+      "label": "길가 찻집",
+      "tags": [
+        "town_life",
+        "길가 찻집",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/10.png",
+      "public_path": "scenes/town_life/10.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/10.png",
+      "sha256": "2712f0947080e9746ed2f74d6d55ab0e2af65124f1e7df5f4f8c958c68303390",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/11",
+      "label": "수향 밤",
+      "tags": [
+        "town_life",
+        "수향 밤",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/11.png",
+      "public_path": "scenes/town_life/11.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/11.png",
+      "sha256": "2dec45edd753cb6bccb4b57251a91c73c28149d7bff2b03d0970285cb868819c",
+      "status": "public_pushed"
+    },
+    {
+      "id": "town_life/12",
+      "label": "산길 숙소",
+      "tags": [
+        "town_life",
+        "산길 숙소",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/town_life/12.png",
+      "public_path": "scenes/town_life/12.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/12.png",
+      "sha256": "a2d89775779c51c0354bdc6036e1ac04ffb0cbe5b85d87d1c717e44ed8c4d2fd",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/01",
+      "label": "소림사",
+      "tags": [
+        "world_places",
+        "소림사",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/01.png",
+      "public_path": "scenes/world_places/01.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/01.png",
+      "sha256": "10ce155ac36e927e86cd86923d0e5a26942c614af06a3d9cc4ded39bebdadbd7",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/02",
+      "label": "무당산",
+      "tags": [
+        "world_places",
+        "무당산",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/02.png",
+      "public_path": "scenes/world_places/02.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/02.png",
+      "sha256": "672742a339221af108c2530e9cb6e442092458e38c2dda5370dd7c250b68aa95",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/03",
+      "label": "화산",
+      "tags": [
+        "world_places",
+        "화산",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/03.png",
+      "public_path": "scenes/world_places/03.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/03.png",
+      "sha256": "f021cdc05daecdaf7a8fd2df73e63840a9ab0620ce170624a4039d000b618117",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/04",
+      "label": "항주",
+      "tags": [
+        "world_places",
+        "항주",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/04.png",
+      "public_path": "scenes/world_places/04.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/04.png",
+      "sha256": "6d967ace82ff4b6e1c5c6f42d18bb35cc3d8319fbe34fd4a4db2952008374db0",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/05",
+      "label": "개봉",
+      "tags": [
+        "world_places",
+        "개봉",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/05.png",
+      "public_path": "scenes/world_places/05.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/05.png",
+      "sha256": "e4e0744ca6a2a5b637fa879bf4ca8e19bf13a30f57cf0214dc32f568cf2ff7c1",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/06",
+      "label": "대리",
+      "tags": [
+        "world_places",
+        "대리",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/06.png",
+      "public_path": "scenes/world_places/06.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/06.png",
+      "sha256": "1d4232aad5f1daf083643c2d3d94b1d1c4328d67206c47eb7cefc01020b5f4a0",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/07",
+      "label": "서역",
+      "tags": [
+        "world_places",
+        "서역",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/07.png",
+      "public_path": "scenes/world_places/07.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/07.png",
+      "sha256": "200bea233c48751be0e1f1179f57aef79d6c4d72add3341ff1e0bc1f2b7186e2",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/08",
+      "label": "효자산 표기 산중 건물",
+      "tags": [
+        "world_places",
+        "효자산 표기 산중 건물",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/08.png",
+      "public_path": "scenes/world_places/08.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/08.png",
+      "sha256": "1b8f14c3b5f0db6a7ed23c967729de5a6ebee9273fd14498e58d7549fc83cf0c",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/09",
+      "label": "광명정",
+      "tags": [
+        "world_places",
+        "광명정",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/09.png",
+      "public_path": "scenes/world_places/09.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/09.png",
+      "sha256": "e61bf0333ac8fdf06850ed438dc7cfaae4e7a6205a5ace444e248664bf50a05b",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/10",
+      "label": "흑목아",
+      "tags": [
+        "world_places",
+        "흑목아",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/10.png",
+      "public_path": "scenes/world_places/10.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/10.png",
+      "sha256": "3612c330b36e5ee41f7dc32d74923a4326208f8487546a489e0dae39ba90e7a1",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/11",
+      "label": "단양",
+      "tags": [
+        "world_places",
+        "단양",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/11.png",
+      "public_path": "scenes/world_places/11.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/11.png",
+      "sha256": "7ceb40b24741aedba347763e3759684ecfb3a7c8c4a6ad17a218dfae9b2220e1",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/12",
+      "label": "장가계",
+      "tags": [
+        "world_places",
+        "장가계",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/12.png",
+      "public_path": "scenes/world_places/12.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/12.png",
+      "sha256": "68ac7d1e2179ed6a758a3bb3ef5096cc7dc3b940bdb3d5b031ab5fdc67ec9f9e",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/13",
+      "label": "고묘파 표기 건물",
+      "tags": [
+        "world_places",
+        "고묘파 표기 건물",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/13.png",
+      "public_path": "scenes/world_places/13.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/13.png",
+      "sha256": "0ef0f353bf90016d080ab30b907b13e82de35c8bf108326dc87f2afae09b1edd",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/14",
+      "label": "빙화곡 표기 설산",
+      "tags": [
+        "world_places",
+        "빙화곡 표기 설산",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/14.png",
+      "public_path": "scenes/world_places/14.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/14.png",
+      "sha256": "db785304aadd2357b45e68a67915d09645ea240555dd8bc013772eb4ee382a38",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/15",
+      "label": "만리장성",
+      "tags": [
+        "world_places",
+        "만리장성",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/15.png",
+      "public_path": "scenes/world_places/15.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/15.png",
+      "sha256": "e2d8cbf45e47b93f609116f029788680a3af22ca5f9de56480fd0175189cc2df",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/16",
+      "label": "동해",
+      "tags": [
+        "world_places",
+        "동해",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/16.png",
+      "public_path": "scenes/world_places/16.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/16.png",
+      "sha256": "57e3068f5660c85a3310b2cdd344a63d0a73899a3c51bdfa49b39a5ae5327a80",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/17",
+      "label": "도화도",
+      "tags": [
+        "world_places",
+        "도화도",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/17.png",
+      "public_path": "scenes/world_places/17.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/17.png",
+      "sha256": "e79fe4be12fce36bbf5dc5a205cb06e628617e144cb4424177e3f5ee51b509e6",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/18",
+      "label": "영호궁 표기 야경",
+      "tags": [
+        "world_places",
+        "영호궁 표기 야경",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/18.png",
+      "public_path": "scenes/world_places/18.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/18.png",
+      "sha256": "45ace83bdef7bf1cbc66b41b18b6f5c478290f3dfb9c5ab3d499880b44106a68",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/19",
+      "label": "전진교 본당 표기 건물",
+      "tags": [
+        "world_places",
+        "전진교 본당 표기 건물",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/19.png",
+      "public_path": "scenes/world_places/19.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/19.png",
+      "sha256": "c1791dbfecc80d74ebf45c818fa7d54679913451a2566712a752471fa178bbd6",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/20",
+      "label": "소왕경 표기 황야",
+      "tags": [
+        "world_places",
+        "소왕경 표기 황야",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/20.png",
+      "public_path": "scenes/world_places/20.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/20.png",
+      "sha256": "1599797687a67aacf606a92ff0890748e691fcda1add0ab38829d087695fbfe4",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/21",
+      "label": "태호",
+      "tags": [
+        "world_places",
+        "태호",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/21.png",
+      "public_path": "scenes/world_places/21.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/21.png",
+      "sha256": "55a1b00061c94b60fef7be16aab3d9ec41280cf621a34105dcb6814bd5b4fbea",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/22",
+      "label": "금륜사 표기 건물",
+      "tags": [
+        "world_places",
+        "금륜사 표기 건물",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/22.png",
+      "public_path": "scenes/world_places/22.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/22.png",
+      "sha256": "df8330fde8786c3dce25d6bb73a64d496ebb093836c4055c3a727b14b01a7163",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/23",
+      "label": "사막 대황야",
+      "tags": [
+        "world_places",
+        "사막 대황야",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/23.png",
+      "public_path": "scenes/world_places/23.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/23.png",
+      "sha256": "2359cc0e944abdf7d265231de9bfd5968da7b5711285a4f6ccdc2095bf3f6366",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/24",
+      "label": "오장산 표기 산악",
+      "tags": [
+        "world_places",
+        "오장산 표기 산악",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/24.png",
+      "public_path": "scenes/world_places/24.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/24.png",
+      "sha256": "bf8cb979b3a34a4129d95a6ed95e830545a9487afcdb8ede3f11cb6bdb19b873",
+      "status": "public_pushed"
+    },
+    {
+      "id": "world_places/25",
+      "label": "곤륜산",
+      "tags": [
+        "world_places",
+        "곤륜산",
+        "참고 그림"
+      ],
+      "source_path": "references/scenes/world_places/25.png",
+      "public_path": "scenes/world_places/25.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/25.png",
+      "sha256": "6f8095c344602f159d3ec3e670ff2e6f2aa15365909c76e5ab46d8776fa3b0c0",
+      "status": "public_pushed"
+    }
+  ]
+}
