@@ -2205,7 +2205,7 @@
       "public_path": "scenes/town_life/tianlong_library_welcome_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/tianlong_library_welcome_day.png",
       "sha256": "a204e39452f34db26a3ed3b14fab692378a30bbdc83b146010368f2096720685",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "낮 천룡사 외원 서고 입구에서 주단신과 혜담이 안내하는 단계. 김형무 은백색 반묶음 장발·흑금 복식, 봉은 불투명 천으로 감춘 상태. 윤지은은 프레임 밖이며 부재·이탈로 처리하지 않는다. 혜담 얼굴·나이·장식의 새 정본이 아닌 부분 장면 참고. 서고 내부 열람·봉 개봉·문자 발현·정체 확인 장면에는 쓰지 않는다. 실제 등장 후 호출하고 입문·가르침·추가 능력·장비를 이미지에서 확정하지 않는다."
     }
   ]
