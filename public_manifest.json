@@ -2121,8 +2121,8 @@
       "public_path": "scenes/landscapes/mine_tunnel_lamplight.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mine_tunnel_lamplight.png",
       "sha256": "3230445d60131ade6b9d7c8dcf8103ab77e0276429083b06783dba250dfcf0a7",
-      "status": "public_candidate",
-      "usage": "낮의 좁은 갱도·목재 버팀·운반 수레 배경. 수레 통로가 보이므로 해당 시설이 없는 자연동굴·갱도 내부·야간에는 쓰지 않는다. 광물·보물·인물·사건 발생을 그림으로 확정하지 않는다."
+      "status": "public_pushed",
+      "usage": "좁은 광산 갱도 내부·목재 버팀·기름등잔·채굴 도구 배경. 무조명·자연동굴·붕괴·침수·광산 외부 장면에는 쓰지 않는다. 광물·보물·인물·사건 발생을 그림으로 확정하지 않는다."
     }
   ]
 }
