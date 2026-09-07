@@ -2123,6 +2123,25 @@
       "sha256": "3230445d60131ade6b9d7c8dcf8103ab77e0276429083b06783dba250dfcf0a7",
       "status": "public_pushed",
       "usage": "좁은 광산 갱도 내부·목재 버팀·기름등잔·채굴 도구 배경. 무조명·자연동굴·붕괴·침수·광산 외부 장면에는 쓰지 않는다. 광물·보물·인물·사건 발생을 그림으로 확정하지 않는다."
+    },
+    {
+      "id": "landscapes/mine_ore_face_lamplight",
+      "label": "등불 아래 광맥 채굴장",
+      "tags": [
+        "광산",
+        "광맥",
+        "채굴 작업면",
+        "내부",
+        "등불",
+        "목재 발판",
+        "배경 참고"
+      ],
+      "source_path": "references/scenes/landscapes/mine_ore_face_lamplight.png",
+      "public_path": "scenes/landscapes/mine_ore_face_lamplight.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mine_ore_face_lamplight.png",
+      "sha256": "720b8f1a89a960c842e90ce077ea773fa120874444956ae0cf0c168ad42d3d29",
+      "status": "public_candidate",
+      "usage": "등불로 밝힌 광산 내부의 어두운 광맥·암벽 채굴 작업면·목재 발판·바구니 배경. 좁은 통로·외부·무조명·붕괴·침수에는 쓰지 않는다. 광물의 종류·가치·발견 사건을 그림으로 확정하지 않는다."
     }
   ]
 }
