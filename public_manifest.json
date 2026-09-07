@@ -2279,6 +2279,25 @@
       "sha256": "3413d45f02811ccf2402c8bec55517f7544de0341b451c756d3dad0d52abaade",
       "status": "public_pushed",
       "usage": "낮 만겁곡 외곽 산비탈의 전복된 약재 수레·바퀴 자국·흩어진 약재 발견 참고. 실제 발견을 서술한 뒤 호출. 인물 없는 환경 참고이며 프레임 밖 수레꾼의 부재·생사·구조 결과를 뜻하지 않는다. 수레가 나무에 걸린 정확한 위치·약재 종류·수량은 본편이 우선하며 그림으로 덮어쓰지 않는다. 밤·실내·정상 운송 수레·종령 등장 이미지로 대체 사용하지 않는다."
+    },
+    {
+      "id": "town_life/wangu_forest_zhong_ling_white_marten_day",
+      "label": "만겁곡 숲 종령과 섬전초",
+      "tags": [
+        "만겁곡",
+        "숲",
+        "낮",
+        "종령",
+        "섬전초",
+        "흰 담비",
+        "등장"
+      ],
+      "source_path": "references/scenes/town_life/wangu_forest_zhong_ling_white_marten_day.png",
+      "public_path": "scenes/town_life/wangu_forest_zhong_ling_white_marten_day.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_forest_zhong_ling_white_marten_day.png",
+      "sha256": "c2a4975997f16b1bde65979f39277603ac7dcd5466532700ea9ef956d1d35078",
+      "status": "public_candidate",
+      "usage": "낮 만겁곡 외곽 숲에서 연녹색 옷의 종령이 등장하고 어깨에 작은 흰 담비 섬전초가 있는 장면. 실제 종령 등장 서술 뒤 호출하며 이름·정체를 그림으로 선행 공개하지 않는다. 섬전초는 담비이며 약초가 아니다. 빛나는 약초 발견·채집·신규 기연을 추가하지 않는다. 그림의 장식이나 소지품은 새 획득 근거가 아니며 밤·실내·다른 여성이나 다른 동물로 대체 사용하지 않는다. 종령 얼굴·머리·눈매는 이 검수본과 대조하며 기존 사용자 확정 반실사형 2D 페인팅 톤을 유지한다."
     }
   ]
 }
