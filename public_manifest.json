@@ -2207,6 +2207,28 @@
       "sha256": "a204e39452f34db26a3ed3b14fab692378a30bbdc83b146010368f2096720685",
       "status": "public_pushed",
       "usage": "낮 천룡사 외원 서고 입구에서 주단신과 혜담이 안내하는 단계. 김형무 은백색 반묶음 장발·흑금 복식, 봉은 불투명 천으로 감춘 상태. 윤지은은 프레임 밖이며 부재·이탈로 처리하지 않는다. 혜담 얼굴·나이·장식의 새 정본이 아닌 부분 장면 참고. 서고 내부 열람·봉 개봉·문자 발현·정체 확인 장면에는 쓰지 않는다. 실제 등장 후 호출하고 입문·가르침·추가 능력·장비를 이미지에서 확정하지 않는다."
+    },
+    {
+      "id": "town_life/dali_document_room_flowchart_day",
+      "label": "대리 객상회 문서고 장부 설명",
+      "tags": [
+        "대리",
+        "객상회",
+        "문서고",
+        "실내",
+        "낮",
+        "안지민",
+        "김형무",
+        "화물 장부",
+        "순서도",
+        "대화"
+      ],
+      "source_path": "references/scenes/town_life/dali_document_room_flowchart_day.png",
+      "public_path": "scenes/town_life/dali_document_room_flowchart_day.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/dali_document_room_flowchart_day.png",
+      "sha256": "ec9e2eee0a6a0ec0fe3c86157b438676cf3861b144dcc21542872045748a7c4a",
+      "status": "public_candidate",
+      "usage": "낮 대리 객상회 문서고에서 안지민이 화물 장부와 네모·화살표 순서도를 설명하는 장면. 안지민 실제 등장 뒤 사용하며 이름·현대 인연·기록 해석을 그림보다 먼저 공개한다. 짙은 갈색 묶은 머리·앞머리·작고 부드러운 얼굴·흰 피부는 기존 프로필 유지. 이 구도는 상대 키 측정 근거가 아니며 MASTER의 작은 키·마른 체형을 변경하지 않는다. 김형무 후면·윤지은 프레임 밖은 동행 이탈을 뜻하지 않는다. 배경 지도·문자·기호를 실제 노선·새 사건으로 확정하지 않는다. 악노삼 습격·회당 전투·야외·밤·목완청 구호 장면에는 제외."
     }
   ]
 }
