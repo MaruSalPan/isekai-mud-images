@@ -2064,6 +2064,27 @@
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/caves/wuliang_collapsed_chamber.png",
       "sha256": "95f54dd9a71fb7252a47639a2089d74d99b6f8e161bd1f133525420795e1de7c",
       "status": "public_pushed"
+    },
+    {
+      "id": "town_life/village_hall_morning",
+      "label": "아침 마을 회관 긴 탁자",
+      "tags": [
+        "마을 회관",
+        "실내",
+        "아침",
+        "긴 탁자",
+        "장부",
+        "붓",
+        "인장",
+        "공식 진술",
+        "배경 참고"
+      ],
+      "source_path": "references/scenes/town_life/village_hall_morning.png",
+      "public_path": "scenes/town_life/village_hall_morning.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/village_hall_morning.png",
+      "sha256": "2ffca84d29960dff2a92310b32afbba579378666b963d61fc8598f8f2e13abef",
+      "status": "public_candidate",
+      "usage": "석교촌 등 산촌 회관의 아침 실내·공식 진술 배경. 그림 속 인물은 확정 초상이 아니며 인원·복식·기물을 새 설정으로 저장하지 않는다. 야외·야간·시장·다른 장소에는 사용하지 않는다."
     }
   ]
 }
