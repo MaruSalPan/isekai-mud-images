@@ -2140,7 +2140,7 @@
       "public_path": "scenes/landscapes/mine_ore_face_lamplight.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mine_ore_face_lamplight.png",
       "sha256": "720b8f1a89a960c842e90ce077ea773fa120874444956ae0cf0c168ad42d3d29",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "등불로 밝힌 광산 내부의 어두운 광맥·암벽 채굴 작업면·목재 발판·바구니 배경. 좁은 통로·외부·무조명·붕괴·침수에는 쓰지 않는다. 광물의 종류·가치·발견 사건을 그림으로 확정하지 않는다."
     }
   ]
