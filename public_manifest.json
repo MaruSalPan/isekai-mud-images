@@ -2243,7 +2243,7 @@
       "public_path": "scenes/combat/dali_hall_yue_laosan_standoff_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/dali_hall_yue_laosan_standoff_day.png",
       "sha256": "bf6bff5717bfafc9458f5a1bedf1dd5b28d287b69c519c5d11ede4f7d7e3d3c6",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "낮 대리 객상회 실내 회당, 악노삼의 거대 악어가위와 김형무의 포장을 벗긴 검붉은 봉 대치. 실제 악노삼 등장 이후 호출. 야외·밤·천으로 감싼 봉 상태에는 사용하지 않는다. 승패·사망·추가 부상·병기 획득을 그림에서 확정하지 않는다."
     },
     {
@@ -2259,7 +2259,7 @@
       "public_path": "scenes/town_life/dali_duan_yu_mu_wanqing_arrival_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/dali_duan_yu_mu_wanqing_arrival_day.png",
       "sha256": "f90c3eeac6e5394afd6bd307cac02859fc11b59e0e83fb3da5b7a059fa305a4a",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "낮 대리 객상회 앞, 검은 말에서 내린 부상한 목완청을 상처 없는 단예가 부축. 목완청 검은 옷·얼굴 가림 유지. 실제 등장 이후만 호출. 부상자를 뒤바꾸거나 추격·치료 완료·관계·승패를 새 사건으로 확정하지 않는다."
     }
   ]
