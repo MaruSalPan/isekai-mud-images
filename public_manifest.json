@@ -2337,12 +2337,30 @@
         "C021",
         "만겁곡 감금 석실 함정"
       ],
-      "source_path": "references/scenes/town_life/wangu_stone_prison_trap_dusk.png",
-      "public_path": "scenes/town_life/wangu_stone_prison_trap_dusk.png",
-      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_stone_prison_trap_dusk.png",
-      "sha256": "a63c8c7ac655b0f0092a9da3a437c9f0ccf4f8bb57147cd92b080bd75e4ee574",
-      "status": "public_pushed",
-      "usage": "해질녘 감금 석실·쇠사슬·향로·석문 시설의 환경 참고. 실제 함정 발견 뒤 파괴 전에만 호출. 기계 구조 도면이 아니며 그림의 문 방향·구덩이·격자·장치를 새 함정이나 정본 구조로 확정하지 않는다. 본편의 외부 추·빗장 구조가 우선. 단예 감금 성공·희생자·단연경 등장·파괴 결과를 선행 노출하지 않는다."
+      "source_path": "references/scenes/town_life/wangu_stone_prison_trap_dusk_r2.png",
+      "public_path": "scenes/town_life/wangu_stone_prison_trap_dusk_r2.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_stone_prison_trap_dusk_r2.png",
+      "sha256": "ec9708905e2dd8022a5d7f99ded4b1f083ab564f1844ce92121f3e0fb125ff75",
+      "status": "public_candidate",
+      "usage": "해질녘 인물 없는 감금 석실·침상 두 개·향로·석문과 추/홈의 파괴 전 환경 참고. 함정 발견 이후 파괴 전에만 호출. 단예는 현장에 없으며 이미지로 출현/감금 성공을 확정하지 않는다. 가시 구덩이 없음. 정밀 구조도가 아니므로 본편의 외부 개폐 장치를 우선한다. 구판 대신 이 수정본 URL 사용."
+    },
+    {
+      "id": "combat/wangu_duan_yanqing_twin_crutches_dusk",
+      "label": "만겁곡 단연경 쌍철장 등장",
+      "tags": [
+        "만겁곡",
+        "석실 입구",
+        "해질녘",
+        "단연경",
+        "쌍철장",
+        "청포"
+      ],
+      "source_path": "references/scenes/combat/wangu_duan_yanqing_twin_crutches_dusk.png",
+      "public_path": "scenes/combat/wangu_duan_yanqing_twin_crutches_dusk.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/wangu_duan_yanqing_twin_crutches_dusk.png",
+      "sha256": "85ce63ac9cad28f7b3e65d2d796f0d85955c9f7067d151196dd0097ef697e0fc",
+      "status": "public_candidate",
+      "usage": "해질녘 석실 입구의 단연경 등장 인물 참고. 사용자 제공 백발·가면·노년 얼굴과 쌍철장으로 몸을 지탱하는 자세·청포 유지. 실제 등장 뒤 호출하며 걷거나 철퇴를 든 무인으로 바꾸지 않는다. 그림의 문·배경을 본편에서 파괴된 감금장치의 복구로 해석하지 않는다. 얼굴 가면 아래 특징은 미확정, 새 병력·승패·부상·능력은 이미지로 확정하지 않는다."
     }
   ]
 }
