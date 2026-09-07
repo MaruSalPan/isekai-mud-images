@@ -2298,6 +2298,51 @@
       "sha256": "c2a4975997f16b1bde65979f39277603ac7dcd5466532700ea9ef956d1d35078",
       "status": "public_pushed",
       "usage": "낮 만겁곡 외곽 숲에서 연녹색 옷의 종령이 등장하고 어깨에 작은 흰 담비 섬전초가 있는 장면. 실제 종령 등장 서술 뒤 호출하며 이름·정체를 그림으로 선행 공개하지 않는다. 섬전초는 담비이며 약초가 아니다. 빛나는 약초 발견·채집·신규 기연을 추가하지 않는다. 그림의 장식이나 소지품은 새 획득 근거가 아니며 밤·실내·다른 여성이나 다른 동물로 대체 사용하지 않는다. 종령 얼굴·머리·눈매는 이 검수본과 대조하며 기존 사용자 확정 반실사형 2D 페인팅 톤을 유지한다."
+    },
+    {
+      "id": "landscapes/wangu_inner_courtyard_passage_afternoon",
+      "label": "만겁곡 내부 별원 통로",
+      "tags": [
+        "만겁곡",
+        "C021",
+        "만겁곡 내부 별원 통로"
+      ],
+      "source_path": "references/scenes/landscapes/wangu_inner_courtyard_passage_afternoon.png",
+      "public_path": "scenes/landscapes/wangu_inner_courtyard_passage_afternoon.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/wangu_inner_courtyard_passage_afternoon.png",
+      "sha256": "07d116db4c2065cd73a7c9ab3373c695e7fd351117049dfb2fa21ee7856689cd",
+      "status": "public_candidate",
+      "usage": "늦은 오후 대숲·석조 담장·별원·통로의 환경 참고. 실제 별원 진입 뒤 호출. 그림의 넓은 계단·입구를 본편의 좁은 바위틈 통로 구조로 덮어쓰거나 추가 경로·시설로 확정하지 않는다. 인물 없는 배경이며 동행 부재를 뜻하지 않는다."
+    },
+    {
+      "id": "town_life/wangu_herb_warehouse_yun_zhonghe_afternoon",
+      "label": "만겁곡 약재 창고 운중학",
+      "tags": [
+        "만겁곡",
+        "C021",
+        "만겁곡 약재 창고 운중학"
+      ],
+      "source_path": "references/scenes/town_life/wangu_herb_warehouse_yun_zhonghe_afternoon.png",
+      "public_path": "scenes/town_life/wangu_herb_warehouse_yun_zhonghe_afternoon.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_herb_warehouse_yun_zhonghe_afternoon.png",
+      "sha256": "2c9ba0d99e15ab593c24faef7a6352ce5ec0d2137602de2ad77f2764596a0520",
+      "status": "public_candidate",
+      "usage": "늦은 오후 약재 창고의 마르고 긴 체구 운중학·약재 수레·결박된 수레꾼 발견 부분 장면. 사용자 외형 자료 이후 수정본만 사용. 실제 발견과 운중학 정체 공개 뒤 호출, 전투 전 상태이며 구조·탈출 뒤 재사용하지 않는다. 프레임에 보이는 한 명을 전체 포로 수로 세지 않으며 본편 수레꾼 셋·철조 병기는 유지한다. 배경 인물은 새 이름·소속·적 병력으로 확정하지 않는다."
+    },
+    {
+      "id": "town_life/wangu_stone_prison_trap_dusk",
+      "label": "만겁곡 감금 석실 함정",
+      "tags": [
+        "만겁곡",
+        "C021",
+        "만겁곡 감금 석실 함정"
+      ],
+      "source_path": "references/scenes/town_life/wangu_stone_prison_trap_dusk.png",
+      "public_path": "scenes/town_life/wangu_stone_prison_trap_dusk.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_stone_prison_trap_dusk.png",
+      "sha256": "a63c8c7ac655b0f0092a9da3a437c9f0ccf4f8bb57147cd92b080bd75e4ee574",
+      "status": "public_candidate",
+      "usage": "해질녘 감금 석실·쇠사슬·향로·석문 시설의 환경 참고. 실제 함정 발견 뒤 파괴 전에만 호출. 기계 구조 도면이 아니며 그림의 문 방향·구덩이·격자·장치를 새 함정이나 정본 구조로 확정하지 않는다. 본편의 외부 추·빗장 구조가 우선. 단예 감금 성공·희생자·단연경 등장·파괴 결과를 선행 노출하지 않는다."
     }
   ]
 }
