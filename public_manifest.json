@@ -2377,7 +2377,7 @@
       "public_path": "scenes/combat/wangu_staff_twin_crutches_clash_dusk.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/wangu_staff_twin_crutches_clash_dusk.png",
       "sha256": "48622569a6c2c3c38a4c5251ddc968068af74b6a86247cd500d9bb309471dd57",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "해질녘 만겁곡 석실에서 김형무와 청회색 포·백발·가면의 단연경이 여의금고봉·쌍철장으로 공방. 실제 정면전 서술 뒤만 사용. 승패·사망·추가 병기 획득을 그림으로 확정하지 않는다."
     },
     {
@@ -2395,7 +2395,7 @@
       "public_path": "scenes/combat/wangu_staff_extension_collapse_dusk.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/wangu_staff_extension_collapse_dusk.png",
       "sha256": "6f0434aa9d96751fdb98d584bfa44526200c6b5d8b0eee87aa49772dd1a27ccb",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "해질녘 석실에서 봉이 길게 연장되고 석벽이 붕괴하는 국면 참고. C022 해당 파괴 서술 뒤만 사용. 단연경 생존 유지, 쓰러진 자세를 사망·완승으로 해석하지 않는다. 굵기·중량 조절·휘어지는 기능을 신규 능력으로 추가하지 않는다."
     },
     {
@@ -2415,7 +2415,7 @@
       "public_path": "scenes/town_life/wangu_escape_yun_jieun_dusk_r1.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_escape_yun_jieun_dusk_r1.png",
       "sha256": "79a645450538d8593b06b8d37280786b64122cd18365a95ded107460712404b0",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "초저녁 만겁곡 비밀통로 밖 산길. 부상한 김형무를 무상인 윤지은이 부축하며 수레꾼이 탈출하는 장면. 수염 오류 수정01만 사용. 그림의 혈흔을 윤지은 부상·추가 인물 사망·새 장비 획득으로 기록하지 않는다. 현재 왕부 객방 실내·치료 완료 상태의 대체 이미지로 쓰지 않는다."
     },
     {
@@ -2435,7 +2435,7 @@
       "public_path": "scenes/town_life/dali_palace_wounded_return_night_r1.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/dali_palace_wounded_return_night_r1.png",
       "sha256": "62efae3eea298638a74866ef58732e6cc219084cf46f65228cb874d981dc5b31",
-      "status": "public_candidate",
+      "status": "public_pushed",
       "usage": "밤 대리 진남왕부 바깥·내원 진입, 횃불·의원 대기와 부상자 귀환 참고. 김형무 수염·중년화 및 윤지은 중상 오류 수정01. 치료 전 귀환을 서술한 뒤 사용. 의원을 단정순으로 대체하거나 김형무 치료 후의 재출혈·윤지은 부상·새 소지품 획득을 만들지 않는다."
     }
   ]
