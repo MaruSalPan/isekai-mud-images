@@ -2,7 +2,7 @@
   "version": 2,
   "public_repository": "MaruSalPan/isekai-mud-images",
   "branch": "main",
-  "generated_at": "2026-09-09T01:00:00+09:00",
+  "generated_at": "2026-09-09T06:20:00+09:00",
   "usage": "Promote public_pushed assets to display_verified only after raw URL and UI display checks.",
   "schema_note": "world 와 origin_chapter 는 출처 기록이며 호출 자격을 거르지 않는다. origin_chapter 는 그림이 그려진 계기일 뿐 SAVE 저장 여부·진행 회차와 무관하다. usage 는 장면 조건만 쓰고 회차 번호·폐기 전개 세부를 넣지 않는다. review_note 는 관리 메모이며 호출 조건이 아니다. publish 가 public 인 자산만 공개 대상이다.",
   "assets": [
@@ -2851,6 +2851,34 @@
       "status": "public_pushed",
       "publish": "public",
       "usage": "손오공 본원신력 수여 이후 김형무의 고정 외형 참고. 은백색 반묶음 장발과 수염 없는 성인 얼굴을 유지하며, 능력·경지·장비·부상은 본문과 SAVE를 우선하고 그림만으로 추가하지 않는다."
+    },
+    {
+      "id": "town_life/gongjin_bridge_wukong_forges_unnamed_iron_staff_day",
+      "label": "공진교 손오공 무명 철봉 단련",
+      "tags": [
+        "항주",
+        "공진교",
+        "석교",
+        "수문",
+        "선착장",
+        "낮",
+        "손오공",
+        "김형무",
+        "심삼랑",
+        "무명 철봉",
+        "병기 제작",
+        "기연"
+      ],
+      "world": "xianxia",
+      "source_path": "references/scenes/town_life/gongjin_bridge_wukong_forges_unnamed_iron_staff_day.png",
+      "public_path": "scenes/town_life/gongjin_bridge_wukong_forges_unnamed_iron_staff_day.png",
+      "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/gongjin_bridge_wukong_forges_unnamed_iron_staff_day.png",
+      "sha256": "29a6c710ba6842ef3f4f6583407b2f0f544274097decd42e5036793dc94a77fb",
+      "status": "public_pushed",
+      "publish": "public",
+      "origin_chapter": "C006",
+      "usage": "낮 석교 아래 수문 선착장에서 손오공이 휘어진 수문 철축을 검고 투박한 무명 철봉으로 바로잡거나 단련하는 장면. 회춘 후 은백색 장발·수염 없는 김형무와 심삼랑이 함께 지켜보는 조건에서 사용한다. 여의금고봉 양도·상시 동행·추가 능력 수여로 해석하지 않으며, 다른 인물·야간·실내·전투 결과 장면에는 쓰지 않는다.",
+      "review_note": "외형 그리기 결과는 C005로 오표기됐으나 실제 저장 정본과 생성 요청은 C006이므로 origin_chapter를 C006으로 정규화했다."
     }
   ]
 }
