@@ -1,9 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "public_repository": "MaruSalPan/isekai-mud-images",
   "branch": "main",
-  "generated_at": "2026-09-08T12:03:08.434Z",
+  "generated_at": "2026-09-09T01:00:00+09:00",
   "usage": "Promote public_pushed assets to display_verified only after raw URL and UI display checks.",
+  "schema_note": "world 와 origin_chapter 는 출처 기록이며 호출 자격을 거르지 않는다. origin_chapter 는 그림이 그려진 계기일 뿐 SAVE 저장 여부·진행 회차와 무관하다. usage 는 장면 조건만 쓰고 회차 번호·폐기 전개 세부를 넣지 않는다. review_note 는 관리 메모이며 호출 조건이 아니다. publish 가 public 인 자산만 공개 대상이다.",
   "assets": [
     {
       "id": "objects/sword",
@@ -12,11 +13,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/sword.png",
       "public_path": "scenes/objects/sword.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/sword.png",
       "sha256": "7c95dd7d23ef55fa3ea526ad6f53b11610ecdf0b65caf42e4c9ce0a925c5d53a",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/saber",
@@ -25,11 +28,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/saber.png",
       "public_path": "scenes/objects/saber.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/saber.png",
       "sha256": "c8a825f855dcad8090be01bc7611e0f75076d0d6828a3326c8bf0eb62b4cf31f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/spear",
@@ -38,11 +43,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/spear.png",
       "public_path": "scenes/objects/spear.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/spear.png",
       "sha256": "71233891b453f26d8c92fcb2c8b87750ab2eb7d7db2009ddaa8024c179028a39",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/staff",
@@ -51,11 +58,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/staff.png",
       "public_path": "scenes/objects/staff.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/staff.png",
       "sha256": "df6758e0abb28344542b4403b4bf2dacf126278f0f58b6126c996b2146415856",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/halberd",
@@ -64,11 +73,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/halberd.png",
       "public_path": "scenes/objects/halberd.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/halberd.png",
       "sha256": "e46653b500497dfc903a6e6b4a736a672f99e52f07a82aa14f7ccb1d5c67a560",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/heavy_club",
@@ -77,11 +88,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/heavy_club.png",
       "public_path": "scenes/objects/heavy_club.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/heavy_club.png",
       "sha256": "6af0611a1c4d6a84d1dd7fa44da6bda4e006150702aabf982d97df51170bd0a5",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/glaive",
@@ -90,11 +103,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/glaive.png",
       "public_path": "scenes/objects/glaive.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/glaive.png",
       "sha256": "8491f44e2757369a59de8deedb04d2cd189ddc908167f1a4cc0b38096ea4adf4",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/chain_mace",
@@ -103,11 +118,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/chain_mace.png",
       "public_path": "scenes/objects/chain_mace.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/chain_mace.png",
       "sha256": "29a55f1fc139bcdd4f1c3ebea9253fe8b65ad5943ae969a58c56aa439d11921f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/mace",
@@ -116,11 +133,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/mace.png",
       "public_path": "scenes/objects/mace.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/mace.png",
       "sha256": "94354a508520f9ae9f5624b5dbfb0f008041c879ac5ff90c8a5a264b48f3132f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/straight_polearm",
@@ -129,11 +148,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/straight_polearm.png",
       "public_path": "scenes/objects/straight_polearm.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/straight_polearm.png",
       "sha256": "95aa75ee51759240bc10efa3c1b63144b933f1cda69de038e96f0bb585e9d281",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/hooked_polearm",
@@ -142,11 +163,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/hooked_polearm.png",
       "public_path": "scenes/objects/hooked_polearm.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/hooked_polearm.png",
       "sha256": "db02ac784b0dba9fd1652f096481886e8d83b41688d799f8dc30bea53d209d84",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/trident",
@@ -155,11 +178,13 @@
         "병기",
         "장병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/trident.png",
       "public_path": "scenes/objects/trident.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/trident.png",
       "sha256": "36b3d7c775aa85fe6148ff93bf82b686d41642e04d49571edca11c25be4e1232",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/dagger",
@@ -168,11 +193,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/dagger.png",
       "public_path": "scenes/objects/dagger.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/dagger.png",
       "sha256": "75471172c9970c614a55ba5f988298e32515e71d7815c736ae182b0e426b45c8",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/paired_sabers",
@@ -181,11 +208,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/paired_sabers.png",
       "public_path": "scenes/objects/paired_sabers.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/paired_sabers.png",
       "sha256": "a09f8cc8b8b474448a753e1b3eff6fac99aa6e9159ce87e9c0eea002f5abd4e9",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/paired_swords",
@@ -194,11 +223,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/paired_swords.png",
       "public_path": "scenes/objects/paired_swords.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/paired_swords.png",
       "sha256": "2c5fb693b34701a81935b0af2156547a6931fbe7311392a988f18e20f79fd56c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/nunchaku",
@@ -207,11 +238,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/nunchaku.png",
       "public_path": "scenes/objects/nunchaku.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/nunchaku.png",
       "sha256": "615390b9759eb3393f78b4b7aef1b757b582a58c83f7b0836c6afae7111ec4c8",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/fan",
@@ -220,11 +253,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/fan.png",
       "public_path": "scenes/objects/fan.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/fan.png",
       "sha256": "c1e0a4e2d80a1264d79524ece8d729157c8d72ed53052ef99c07efae3f69de06",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/umbrella",
@@ -233,11 +268,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/umbrella.png",
       "public_path": "scenes/objects/umbrella.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/umbrella.png",
       "sha256": "d23d519c1175e3d1d33404dc3b6bed64e81ac32bd270107c284f2dc0d16b02c7",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/claw_gauntlet",
@@ -246,11 +283,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/claw_gauntlet.png",
       "public_path": "scenes/objects/claw_gauntlet.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/claw_gauntlet.png",
       "sha256": "fa1f724c6d6c00e8ca9713ca3a7820bbd3f2b3cdc01ca4f54987773b2f215f41",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/ring_blade",
@@ -259,11 +298,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/ring_blade.png",
       "public_path": "scenes/objects/ring_blade.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/ring_blade.png",
       "sha256": "4e9e8d9c9c2b9e71dfd46023048d82fae0428d2e788935662324f2568ebc6df8",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/throwing_blades",
@@ -272,11 +313,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/throwing_blades.png",
       "public_path": "scenes/objects/throwing_blades.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/throwing_blades.png",
       "sha256": "87b4328890fef2912ffbccd4ceb3bee1bff4f444137b12b9b11d5b273cbcb33f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/darts",
@@ -285,11 +328,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/darts.png",
       "public_path": "scenes/objects/darts.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/darts.png",
       "sha256": "f345863bea20c2f260bdeb3a545f75fe7e429ff7fe169b24885ce86aeea6c3c2",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/meteor_hammer",
@@ -298,11 +343,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/meteor_hammer.png",
       "public_path": "scenes/objects/meteor_hammer.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/meteor_hammer.png",
       "sha256": "b062c9bf44f82110e03e663fc8716a7900ca027811b6e8a73e4f1edfdeed60cd",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/rope_whip",
@@ -311,11 +358,13 @@
         "병기",
         "단병기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/rope_whip.png",
       "public_path": "scenes/objects/rope_whip.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/rope_whip.png",
       "sha256": "b67cc1799d8041424c43fd69947220978add0b4f311d3faf15e1065a8bd5d028",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/bow",
@@ -325,11 +374,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/bow.png",
       "public_path": "scenes/objects/bow.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/bow.png",
       "sha256": "df6ac315deca93ed8f7f6c36984753e7b0c4a0e80efa987752170850c84dedf7",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/crossbow",
@@ -339,11 +390,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/crossbow.png",
       "public_path": "scenes/objects/crossbow.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/crossbow.png",
       "sha256": "42058f7e40e1f964430d6f50ef4bcc8971e39ed360c4718687e1e39e17ecaf14",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/throwing_knives",
@@ -353,11 +406,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/throwing_knives.png",
       "public_path": "scenes/objects/throwing_knives.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/throwing_knives.png",
       "sha256": "89c132b69ee85db0f601d5cc4dfd5050973096e55cf11b0a24d6dbe1c5e5b6af",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/throwing_stars",
@@ -367,11 +422,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/throwing_stars.png",
       "public_path": "scenes/objects/throwing_stars.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/throwing_stars.png",
       "sha256": "a98958069442ad2dfbbe6133632bd9c45472e958ff9b3ac4786ec82bb0c354fe",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/arrows",
@@ -381,11 +438,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/arrows.png",
       "public_path": "scenes/objects/arrows.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/arrows.png",
       "sha256": "b627e72a4409433f02d11799cb65644ca1c9b6382114c67b787efac35794491c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/needle_weapon",
@@ -395,11 +454,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/needle_weapon.png",
       "public_path": "scenes/objects/needle_weapon.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/needle_weapon.png",
       "sha256": "b7a87dbc28893a79897f3a28902fa72a409faba1c8eef103345bd689e646bccd",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/linked_rings",
@@ -409,11 +470,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/linked_rings.png",
       "public_path": "scenes/objects/linked_rings.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/linked_rings.png",
       "sha256": "d3facaf8a0607d66b9b1797d75a21d63fe7534f38759c6d1d5d874baec35fa79",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/curved_blade",
@@ -423,11 +486,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/curved_blade.png",
       "public_path": "scenes/objects/curved_blade.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/curved_blade.png",
       "sha256": "38cfd59afee61f4a6b78b4d1a2c04e3a1e0b2f6709e47850358770b848159d75",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/pellet_device",
@@ -437,11 +502,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/pellet_device.png",
       "public_path": "scenes/objects/pellet_device.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/pellet_device.png",
       "sha256": "d55bee5e47b1bf55a9243e4e21cf2ad60393b3864200ee39436312169cc2c226",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/powder_gourds",
@@ -451,11 +518,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/powder_gourds.png",
       "public_path": "scenes/objects/powder_gourds.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/powder_gourds.png",
       "sha256": "041c892934750813ed7d4691cb3f8bf6a25a4fa0802deeaac329cf7d7a78c523",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/smoke_bomb",
@@ -465,11 +534,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/smoke_bomb.png",
       "public_path": "scenes/objects/smoke_bomb.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/smoke_bomb.png",
       "sha256": "63ca7b3b54e621a38f0890c51689de3a9e293e581f3d277ccbf4d45b8511d7e0",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/signal_tube",
@@ -479,11 +550,13 @@
         "원거리",
         "암기"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/signal_tube.png",
       "public_path": "scenes/objects/signal_tube.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/signal_tube.png",
       "sha256": "d5d33e031182e779e915bbd78c7e1bc1040d3fddb1182bbafdc65a265c2c32f6",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/wine_gourd",
@@ -492,11 +565,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/wine_gourd.png",
       "public_path": "scenes/objects/wine_gourd.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/wine_gourd.png",
       "sha256": "bdf010d3406f0a171437dd2ef2072bf66ec01294ea959944d741742a3e891f71",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/wine_cup",
@@ -505,11 +580,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/wine_cup.png",
       "public_path": "scenes/objects/wine_cup.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/wine_cup.png",
       "sha256": "a91ad459575cee83f5c81e0ff359e42eecc69f0546fa37ffd430e1808cbb0b48",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/teapot",
@@ -518,11 +595,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/teapot.png",
       "public_path": "scenes/objects/teapot.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/teapot.png",
       "sha256": "e8a8e94b4d61a69a1fb4ab9ff66204de2b324dbacf870ccb31348ee35d81a747",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/tableware",
@@ -531,11 +610,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/tableware.png",
       "public_path": "scenes/objects/tableware.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/tableware.png",
       "sha256": "159461af64cb7efeea0ba02efeb2fceb51a4c1720ea33d28784d3a9c0e7afe4b",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/medicine_pouch",
@@ -544,11 +625,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/medicine_pouch.png",
       "public_path": "scenes/objects/medicine_pouch.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/medicine_pouch.png",
       "sha256": "189a020251fc7199bae6486d5a2522c3a18e8e159f458c8512fb563581d7f420",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/needle_case",
@@ -557,11 +640,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/needle_case.png",
       "public_path": "scenes/objects/needle_case.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/needle_case.png",
       "sha256": "21b68ca4e75a206456350cbe731bca1cedd86c2a82c616e968e3416374c4e34d",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/map",
@@ -570,11 +655,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/map.png",
       "public_path": "scenes/objects/map.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/map.png",
       "sha256": "f019662e603a0947394488347a361c48d1515ed13606ac5ced8fc1e7186b768d",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/compass",
@@ -583,11 +670,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/compass.png",
       "public_path": "scenes/objects/compass.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/compass.png",
       "sha256": "011e6472600c560aaf90e2a64ba161dfbcb05a407a1f81d9398d4130928da3b4",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/lantern",
@@ -596,11 +685,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/lantern.png",
       "public_path": "scenes/objects/lantern.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/lantern.png",
       "sha256": "38192fe817514ae79c83d6393e335498a4b68ce3c6fbb1cb78129b150a8d5bb8",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/brazier",
@@ -609,11 +700,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/brazier.png",
       "public_path": "scenes/objects/brazier.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/brazier.png",
       "sha256": "000255cdf9ee3a8babc925419a3d8e704b474594f006fad0875ecea5f7769a75",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/telescope",
@@ -622,11 +715,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/telescope.png",
       "public_path": "scenes/objects/telescope.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/telescope.png",
       "sha256": "69e835abbf6117a3997b73a189d2bc07ed1bc63d7c195b058623ffd06494fa57",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/scrolls",
@@ -635,11 +730,13 @@
         "기물",
         "생활도구"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/scrolls.png",
       "public_path": "scenes/objects/scrolls.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/scrolls.png",
       "sha256": "2aa0e4d3ec32db58e55defcfd9ec97a6972c24140a2ccb6f19066b94d70767ea",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/horse",
@@ -648,11 +745,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/horse.png",
       "public_path": "scenes/objects/horse.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/horse.png",
       "sha256": "89af846a934784cf0eba33c4c3efd1e3c767f5a6add408ea9e4cee6f3d2cf797",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/carriage",
@@ -661,11 +760,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/carriage.png",
       "public_path": "scenes/objects/carriage.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/carriage.png",
       "sha256": "92f2bcd1df2d335223f15d5167042dee2ea637c844dcfabec94311dc1d58103d",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/boat",
@@ -674,11 +775,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/boat.png",
       "public_path": "scenes/objects/boat.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/boat.png",
       "sha256": "8da4eac2cb97d75dadc83077fdae451b8667d3db87289306248f9bfcdfff6d49",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/sedan_chair",
@@ -687,11 +790,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/sedan_chair.png",
       "public_path": "scenes/objects/sedan_chair.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/sedan_chair.png",
       "sha256": "a1faf398da8c058b340bd1dd727786523062af6b63db68f6a14f2b119ec081e5",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/tent",
@@ -700,11 +805,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/tent.png",
       "public_path": "scenes/objects/tent.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/tent.png",
       "sha256": "79a188398c9f843162b63dab5c1a5954cf5f37888aa70a6b8818ce647f5e6afd",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/bed",
@@ -713,11 +820,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/bed.png",
       "public_path": "scenes/objects/bed.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/bed.png",
       "sha256": "ece58d3341753224fe9033db5f00a9e7b6da824e07e785b471431428d1052ce1",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/books",
@@ -726,11 +835,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/books.png",
       "public_path": "scenes/objects/books.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/books.png",
       "sha256": "e382fcba0625fcd0df9a619a49d7accf0003ff3d0377a34c2a6e4e0aaeaa0378",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/writing_desk",
@@ -739,11 +850,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/writing_desk.png",
       "public_path": "scenes/objects/writing_desk.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/writing_desk.png",
       "sha256": "645c6dbc744df2de44f2251189990cbb671d4a6c0a87b6fcb2d895f9d42d9288",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/zither",
@@ -752,11 +865,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/zither.png",
       "public_path": "scenes/objects/zither.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/zither.png",
       "sha256": "289090cf94522145917201afbc31233813c99afee6fcf8a178790a8a9143d21e",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/go_board",
@@ -765,11 +880,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/go_board.png",
       "public_path": "scenes/objects/go_board.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/go_board.png",
       "sha256": "92e83994d54e6ce25a29c32cb77d69bc694d2a0b5ffe069017af0335bcc7e1d3",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/chess_board",
@@ -778,11 +895,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/chess_board.png",
       "public_path": "scenes/objects/chess_board.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/chess_board.png",
       "sha256": "f61d5d768e517768dbbaed6fbd144690e05e15bd7405f546fe70255ec08c99a1",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "objects/dice",
@@ -791,11 +910,13 @@
         "생활",
         "기물"
       ],
+      "world": "common",
       "source_path": "references/scenes/objects/dice.png",
       "public_path": "scenes/objects/dice.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/objects/dice.png",
       "sha256": "2a4fb6433bdc522298dafb6919c034c67642301d679429e290897c24c0c3abdd",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/inn_street",
@@ -805,11 +926,13 @@
         "여행",
         "객잔 거리"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/inn_street.png",
       "public_path": "scenes/landscapes/inn_street.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/inn_street.png",
       "sha256": "8d95643f903992108f2f22e27759ed29b5e1063b85ffca3244e4d4da1e2e1107",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/riverside_dock",
@@ -819,11 +942,13 @@
         "여행",
         "강가 나루터"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/riverside_dock.png",
       "public_path": "scenes/landscapes/riverside_dock.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/riverside_dock.png",
       "sha256": "9ae23940e603a8d09dd46fdfe87ff6968bfcb203615c671eb327f81863d55ea5",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/mountain_path",
@@ -833,11 +958,13 @@
         "여행",
         "산길"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/mountain_path.png",
       "public_path": "scenes/landscapes/mountain_path.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mountain_path.png",
       "sha256": "a1a985846752a31f4d9cba510f3ad36f56fd0bf9764daacdd265d54528edbdee",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/mountain_temple",
@@ -847,11 +974,13 @@
         "여행",
         "산중 사찰"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/mountain_temple.png",
       "public_path": "scenes/landscapes/mountain_temple.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mountain_temple.png",
       "sha256": "b7f7895f9d9182b7a1e38e27039489b9e1238d2cba15bd9bcbefcaa2ae99e5f3",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/bamboo_forest",
@@ -861,11 +990,13 @@
         "여행",
         "대나무숲"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/bamboo_forest.png",
       "public_path": "scenes/landscapes/bamboo_forest.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/bamboo_forest.png",
       "sha256": "243cdb242b619b4da87f814764194ceb23ec0998b8191e902f23a16af51ade1c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/grassland",
@@ -875,11 +1006,13 @@
         "여행",
         "초원"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/grassland.png",
       "public_path": "scenes/landscapes/grassland.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/grassland.png",
       "sha256": "c3b746fee73000d4f742b59c95d333f22f8200c18a15a5e7eb08cfe36223addb",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/waterfall",
@@ -889,11 +1022,13 @@
         "여행",
         "폭포"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/waterfall.png",
       "public_path": "scenes/landscapes/waterfall.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/waterfall.png",
       "sha256": "ab4e81323e8dd0a7bf3ed35fc187f13a5d44421616b79fb8a0b29387ab9ef131",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/snow_mountain",
@@ -903,11 +1038,13 @@
         "여행",
         "설산"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/snow_mountain.png",
       "public_path": "scenes/landscapes/snow_mountain.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/snow_mountain.png",
       "sha256": "41ae3b3a52174c81c6e3e779607abb930201824a9cf5cbe312e0bc6a7fd37caa",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/lake_pavilion",
@@ -917,11 +1054,13 @@
         "여행",
         "호수와 정자"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/lake_pavilion.png",
       "public_path": "scenes/landscapes/lake_pavilion.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/lake_pavilion.png",
       "sha256": "dfc979a47c49f4a9c01dd3685fac4dc9c791a4014e89f669fc0dee88d9335fba",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/city_gate",
@@ -931,11 +1070,13 @@
         "여행",
         "성문"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/city_gate.png",
       "public_path": "scenes/landscapes/city_gate.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/city_gate.png",
       "sha256": "1115389d617c803d136ae00464a857e36814035c64df5df14454b598fd69f792",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/water_town_night",
@@ -945,11 +1086,13 @@
         "여행",
         "수향 야경"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/water_town_night.png",
       "public_path": "scenes/landscapes/water_town_night.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/water_town_night.png",
       "sha256": "c886b96d2de06b3c0699a986fc628567b3dd9844bcfdcd673d4b425ab50004b9",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "landscapes/gorge_path",
@@ -959,11 +1102,13 @@
         "여행",
         "협곡 잔도"
       ],
+      "world": "common",
       "source_path": "references/scenes/landscapes/gorge_path.png",
       "public_path": "scenes/landscapes/gorge_path.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/gorge_path.png",
       "sha256": "b1ea4a1e4df208f187b156bca900c9c675c39fd000545a698ce2f3b833380a02",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/staff_clash",
@@ -973,11 +1118,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/staff_clash.png",
       "public_path": "scenes/combat/staff_clash.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/staff_clash.png",
       "sha256": "30e847b387bb0ffcab3af7be6526f1f9ac2769e51ca74c5be949cad3fcc289cc",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/moonlit_duel",
@@ -987,11 +1134,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/moonlit_duel.png",
       "public_path": "scenes/combat/moonlit_duel.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/moonlit_duel.png",
       "sha256": "0c8db9e49475c8ee4f15202c806ff9e793af9f5a09c61f9131a5770a699a203e",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/polearm_strike",
@@ -1001,11 +1150,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/polearm_strike.png",
       "public_path": "scenes/combat/polearm_strike.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/polearm_strike.png",
       "sha256": "e9eb9a43ffc01b9a2051fde7616952693588549f0133c7e14328c2d94fe36e18",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/bamboo_melee",
@@ -1015,11 +1166,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/bamboo_melee.png",
       "public_path": "scenes/combat/bamboo_melee.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/bamboo_melee.png",
       "sha256": "5b9bf891ec8854def1b0c201f21f3b8550971e655dc4e0b45aa08820116347cd",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/battlefield_aftermath",
@@ -1030,11 +1183,13 @@
         "결과 장면",
         "종료 후만"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/battlefield_aftermath.png",
       "public_path": "scenes/combat/battlefield_aftermath.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/battlefield_aftermath.png",
       "sha256": "04367df7cbf3b21568ca645396cb55886bfa6afd46d348bf936878b96e945891",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/waterfall_duel",
@@ -1044,11 +1199,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/waterfall_duel.png",
       "public_path": "scenes/combat/waterfall_duel.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/waterfall_duel.png",
       "sha256": "fddacbb938700ef9af80837e406931699718ac991870de719a83634b7dc44766",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/close_clash",
@@ -1058,11 +1215,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/close_clash.png",
       "public_path": "scenes/combat/close_clash.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/close_clash.png",
       "sha256": "03143e5a8b9c57c288542fe41d25831e512d5634d7e7b4a72471681acb8a8ed1",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/sweeping_attack",
@@ -1072,11 +1231,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/sweeping_attack.png",
       "public_path": "scenes/combat/sweeping_attack.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/sweeping_attack.png",
       "sha256": "c74abd83ce173d1c75362e4ed741d5263225058070a783469d4569f320c3f4f9",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/rainy_street_duel",
@@ -1086,11 +1247,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/rainy_street_duel.png",
       "public_path": "scenes/combat/rainy_street_duel.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/rainy_street_duel.png",
       "sha256": "bee21e72786f0b9204faf03ebc96375f541c9720537bf31752f72b2162827d6c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/aerial_duel",
@@ -1100,11 +1263,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/aerial_duel.png",
       "public_path": "scenes/combat/aerial_duel.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/aerial_duel.png",
       "sha256": "033fde2d0a7eb54836b35ea1a4db95166885984005f2e13a3d36138ffef7879a",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/strike_closeup",
@@ -1114,11 +1279,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/strike_closeup.png",
       "public_path": "scenes/combat/strike_closeup.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/strike_closeup.png",
       "sha256": "8e714c4eaa1dfbd5dd2f5d74b04646c995a62b460728bd0d09a7f89370f6ac7e",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/courtyard_melee",
@@ -1128,11 +1295,13 @@
         "김형무",
         "공방"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/courtyard_melee.png",
       "public_path": "scenes/combat/courtyard_melee.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/courtyard_melee.png",
       "sha256": "8de20b9eda677392e25f8498348858813d406670971bc49e0ffa97b1795dd793",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "combat/lakeside_aftermath",
@@ -1143,11 +1312,13 @@
         "결과 장면",
         "종료 후만"
       ],
+      "world": "common",
       "source_path": "references/scenes/combat/lakeside_aftermath.png",
       "public_path": "scenes/combat/lakeside_aftermath.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/lakeside_aftermath.png",
       "sha256": "b6dfb5f67a88f40254d00f13217e23873415985326430bc9e8cf3a115d1d17aa",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/kaifeng",
@@ -1157,11 +1328,13 @@
         "상상화",
         "개봉 성곽"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/kaifeng.png",
       "public_path": "scenes/regions/kaifeng.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/kaifeng.png",
       "sha256": "08641d756b320278718343346bbe5d8c7ebe461239fc5a974b006a84a7522391",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/beijing",
@@ -1171,11 +1344,13 @@
         "상상화",
         "북경 도성"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/beijing.png",
       "public_path": "scenes/regions/beijing.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/beijing.png",
       "sha256": "f2222e3459aa2e19f4dc98b6525f0d8b3ba6f290b8e550b91913e6b75982f287",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/huashan",
@@ -1185,11 +1360,13 @@
         "상상화",
         "화산"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/huashan.png",
       "public_path": "scenes/regions/huashan.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/huashan.png",
       "sha256": "c7e2dd6bfa74d18fd79cb9b0c7e4d8262bd64c03ad18cdc5fb53f2f890b86386",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/hangzhou",
@@ -1199,11 +1376,13 @@
         "상상화",
         "항주"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/hangzhou.png",
       "public_path": "scenes/regions/hangzhou.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/hangzhou.png",
       "sha256": "f4d4732fe12f3ae7cc0f2f973a19b48b2d8aa124b5920524ffd165f70a1b0889",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/three_gorges",
@@ -1213,11 +1392,13 @@
         "상상화",
         "삼협"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/three_gorges.png",
       "public_path": "scenes/regions/three_gorges.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/three_gorges.png",
       "sha256": "8e40a4ddb4582d4016f5b54231bef6f7f3dc3071439d2f6bcdf2c0da2bc79628",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/tibet",
@@ -1227,11 +1408,13 @@
         "상상화",
         "티베트"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/tibet.png",
       "public_path": "scenes/regions/tibet.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/tibet.png",
       "sha256": "caa99c2985b611de08005429fd62e786b7c687de5a90a6d4a9391e1bd35a8420",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/dunhuang",
@@ -1241,11 +1424,13 @@
         "상상화",
         "돈황"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/dunhuang.png",
       "public_path": "scenes/regions/dunhuang.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/dunhuang.png",
       "sha256": "f40efe943c966987e72468cde7bfd7c561af4354e72baacdfbaec2a947f7dc38",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/yangzhou",
@@ -1255,11 +1440,13 @@
         "상상화",
         "양주"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/yangzhou.png",
       "public_path": "scenes/regions/yangzhou.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/yangzhou.png",
       "sha256": "c2da63ccb284d01bb2daf11d1a91bb33c4e83995815d8ade18e81e064b6478d0",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/chengdu",
@@ -1269,11 +1456,13 @@
         "상상화",
         "성도"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/chengdu.png",
       "public_path": "scenes/regions/chengdu.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/chengdu.png",
       "sha256": "a315ec9be0b28f4a72b78da30d04e94b50537fd3269a74e10f16913bb7c83d5f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/shaolin",
@@ -1283,11 +1472,13 @@
         "상상화",
         "소림사"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/shaolin.png",
       "public_path": "scenes/regions/shaolin.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/shaolin.png",
       "sha256": "097dba80ce5642b17354872c412c3edfb3ba381fc9f20c49dfc53972b939cc9d",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/wudang",
@@ -1297,11 +1488,13 @@
         "상상화",
         "무당산"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/wudang.png",
       "public_path": "scenes/regions/wudang.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/wudang.png",
       "sha256": "e7b0042cc8d10107ec83b5bcbfd012318394d44b4d18563eeba74984ca3f8986",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/unverified_mountain_temple",
@@ -1312,11 +1505,13 @@
         "산중 사찰 — 원문 진소림",
         " 명칭 미확인"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/unverified_mountain_temple.png",
       "public_path": "scenes/regions/unverified_mountain_temple.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/unverified_mountain_temple.png",
       "sha256": "6768f3ec59d31b7a04766c9956be0e9ceef2e1ae32b905476840b4cb65d6455e",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "regions/fujian",
@@ -1326,11 +1521,13 @@
         "상상화",
         "복건"
       ],
+      "world": "common",
       "source_path": "references/scenes/regions/fujian.png",
       "public_path": "scenes/regions/fujian.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/regions/fujian.png",
       "sha256": "c26d6c7af0304cf780e5b5acf70f7392f5809d499a06a034f90895a4832d26da",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/01",
@@ -1340,11 +1537,13 @@
         "봉 겨누기",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/01.png",
       "public_path": "scenes/staff_life/01.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/01.png",
       "sha256": "4a99bbe305638f42d74715381627432023e4ed577e092c6aaf1eb4755ffe0d7f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/02",
@@ -1354,11 +1553,13 @@
         "봉 회전",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/02.png",
       "public_path": "scenes/staff_life/02.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/02.png",
       "sha256": "b718bd29252ab8d5d653452e6812daa8be39bc3e68f14576df9129b8d5fb291c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/03",
@@ -1368,11 +1569,13 @@
         "공중 봉 자세",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/03.png",
       "public_path": "scenes/staff_life/03.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/03.png",
       "sha256": "8ed30e543c20719266c9ead5bb921d4242d0c740bc4ba6843de63a1625b02c88",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/04",
@@ -1382,11 +1585,13 @@
         "내려치기",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/04.png",
       "public_path": "scenes/staff_life/04.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/04.png",
       "sha256": "a036b6d88a20372261fa9cdab95fc61ecaecccaee6448fc9c47aaaf3c0aeb526",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/05",
@@ -1396,11 +1601,13 @@
         "봉 돌진",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/05.png",
       "public_path": "scenes/staff_life/05.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/05.png",
       "sha256": "2e0f97bdb43e1710a58d800e2b04e776362c49d9b077a4bfa36ca1d1c862abb7",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/06",
@@ -1410,11 +1617,13 @@
         "포위 공방",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/06.png",
       "public_path": "scenes/staff_life/06.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/06.png",
       "sha256": "d3adfa4e3603545c1f1d837cc4b2a1ff3143f5c04450aaaed9161af4c5d92497",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/07",
@@ -1424,11 +1633,13 @@
         "다대일 휩쓸기",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/07.png",
       "public_path": "scenes/staff_life/07.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/07.png",
       "sha256": "1e0282ed2d197782f27dc26afa1552d85cb4fdd408997fd353c52ae16b088951",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/08",
@@ -1438,11 +1649,13 @@
         "객잔 앞 공중 공방",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/08.png",
       "public_path": "scenes/staff_life/08.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/08.png",
       "sha256": "3472b581b0129677edf408039fc6bdd84140f673526cbc6e9b6efda26f9ec5d1",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/09",
@@ -1452,11 +1665,13 @@
         "물가 공방",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/09.png",
       "public_path": "scenes/staff_life/09.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/09.png",
       "sha256": "de5d66e25648cace88b5b091ac0d960439790cff70f85260efb8460ec1323db3",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/10",
@@ -1466,11 +1681,13 @@
         "일출 휴식",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/10.png",
       "public_path": "scenes/staff_life/10.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/10.png",
       "sha256": "f983eb642c7077555e0e6cef7be4fe0d1263dac51820f2f9151fb2d6c0f4512b",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/11",
@@ -1480,11 +1697,13 @@
         "좌선",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/11.png",
       "public_path": "scenes/staff_life/11.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/11.png",
       "sha256": "116b41536963cc8fbc58350279083512256e5b17b555513b0fd40266070730b4",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/12",
@@ -1494,11 +1713,13 @@
         "기지개",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/12.png",
       "public_path": "scenes/staff_life/12.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/12.png",
       "sha256": "08d6b0b37d37ae4c2a0fc82f9d4d20f62471c727b490de7d4dd0eb84d77430fe",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/13",
@@ -1508,11 +1729,13 @@
         "세수",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/13.png",
       "public_path": "scenes/staff_life/13.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/13.png",
       "sha256": "7f85fe86d825d2ea1f94a81e55641a171916fd99b88ab07a2407c02686ff2568",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "staff_life/14",
@@ -1522,11 +1745,13 @@
         "차와 휴식",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/staff_life/14.png",
       "public_path": "scenes/staff_life/14.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/staff_life/14.png",
       "sha256": "519539a82aeb2ac3062bd7611bb920da7f60d3ec41c28d38194b4da262db16d2",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/01",
@@ -1536,11 +1761,13 @@
         "객잔 외관",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/01.png",
       "public_path": "scenes/town_life/01.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/01.png",
       "sha256": "2e70bb8f5cdb5e8dfcef27bf80781cd2a00c3bbe6a7c77a1732bc0192bb19914",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/02",
@@ -1550,11 +1777,13 @@
         "객잔 내부",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/02.png",
       "public_path": "scenes/town_life/02.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/02.png",
       "sha256": "fca3c368ea4706ef549aba5b55c48d82759c389855e917311af4b340c6df5a1f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/03",
@@ -1564,11 +1793,13 @@
         "유흥가 건물",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/03.png",
       "public_path": "scenes/town_life/03.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/03.png",
       "sha256": "3c47b0173b5de75aff78c78df4859e5f2ad0132459f998b331698fb2fbbef43f",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/04",
@@ -1578,11 +1809,13 @@
         "실내 연주와 모임",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/04.png",
       "public_path": "scenes/town_life/04.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/04.png",
       "sha256": "aa6862695623bee2708f6a8dc7d719ad5d82ab0a7ec358d90c7329659b0bae7e",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/05",
@@ -1592,11 +1825,13 @@
         "시장 입구",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/05.png",
       "public_path": "scenes/town_life/05.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/05.png",
       "sha256": "f2c3606d91827f7f3c54cf0531900aee18da67435cb540dd590d2590c93a8125",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/06",
@@ -1606,11 +1841,13 @@
         "시장 거리",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/06.png",
       "public_path": "scenes/town_life/06.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/06.png",
       "sha256": "2ef9a0ae6d8ec7f1ae527eff1231d20e97ccf923912d1fcb1600d801c5269182",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/07",
@@ -1620,11 +1857,13 @@
         "음식 노점",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/07.png",
       "public_path": "scenes/town_life/07.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/07.png",
       "sha256": "bc30a6d887af8ece152d1683e75d07b27b167e59942d581c76b0fd1bca545144",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/08",
@@ -1634,11 +1873,13 @@
         "등불 골목",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/08.png",
       "public_path": "scenes/town_life/08.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/08.png",
       "sha256": "946bd779441263a237875bba6261c35dcb22b89a026d36c5dec22ad5ecf8bc1d",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/09",
@@ -1648,11 +1889,13 @@
         "수향 다리",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/09.png",
       "public_path": "scenes/town_life/09.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/09.png",
       "sha256": "fa0017c126c3f8dd269cb451a20148af756dfee1c4ce0644db35c7c3178a7751",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/10",
@@ -1662,11 +1905,13 @@
         "길가 찻집",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/10.png",
       "public_path": "scenes/town_life/10.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/10.png",
       "sha256": "2712f0947080e9746ed2f74d6d55ab0e2af65124f1e7df5f4f8c958c68303390",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/11",
@@ -1676,11 +1921,13 @@
         "수향 밤",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/11.png",
       "public_path": "scenes/town_life/11.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/11.png",
       "sha256": "2dec45edd753cb6bccb4b57251a91c73c28149d7bff2b03d0970285cb868819c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/12",
@@ -1690,11 +1937,13 @@
         "산길 숙소",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/town_life/12.png",
       "public_path": "scenes/town_life/12.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/12.png",
       "sha256": "a2d89775779c51c0354bdc6036e1ac04ffb0cbe5b85d87d1c717e44ed8c4d2fd",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/01",
@@ -1704,11 +1953,13 @@
         "소림사",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/01.png",
       "public_path": "scenes/world_places/01.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/01.png",
       "sha256": "10ce155ac36e927e86cd86923d0e5a26942c614af06a3d9cc4ded39bebdadbd7",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/02",
@@ -1718,11 +1969,13 @@
         "무당산",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/02.png",
       "public_path": "scenes/world_places/02.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/02.png",
       "sha256": "672742a339221af108c2530e9cb6e442092458e38c2dda5370dd7c250b68aa95",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/03",
@@ -1732,11 +1985,13 @@
         "화산",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/03.png",
       "public_path": "scenes/world_places/03.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/03.png",
       "sha256": "f021cdc05daecdaf7a8fd2df73e63840a9ab0620ce170624a4039d000b618117",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/04",
@@ -1746,11 +2001,13 @@
         "항주",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/04.png",
       "public_path": "scenes/world_places/04.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/04.png",
       "sha256": "6d967ace82ff4b6e1c5c6f42d18bb35cc3d8319fbe34fd4a4db2952008374db0",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/05",
@@ -1760,11 +2017,13 @@
         "개봉",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/05.png",
       "public_path": "scenes/world_places/05.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/05.png",
       "sha256": "e4e0744ca6a2a5b637fa879bf4ca8e19bf13a30f57cf0214dc32f568cf2ff7c1",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/06",
@@ -1774,11 +2033,13 @@
         "대리",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/06.png",
       "public_path": "scenes/world_places/06.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/06.png",
       "sha256": "1d4232aad5f1daf083643c2d3d94b1d1c4328d67206c47eb7cefc01020b5f4a0",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/07",
@@ -1788,11 +2049,13 @@
         "서역",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/07.png",
       "public_path": "scenes/world_places/07.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/07.png",
       "sha256": "200bea233c48751be0e1f1179f57aef79d6c4d72add3341ff1e0bc1f2b7186e2",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/08",
@@ -1802,11 +2065,13 @@
         "효자산 표기 산중 건물",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/08.png",
       "public_path": "scenes/world_places/08.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/08.png",
       "sha256": "1b8f14c3b5f0db6a7ed23c967729de5a6ebee9273fd14498e58d7549fc83cf0c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/09",
@@ -1816,11 +2081,13 @@
         "광명정",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/09.png",
       "public_path": "scenes/world_places/09.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/09.png",
       "sha256": "e61bf0333ac8fdf06850ed438dc7cfaae4e7a6205a5ace444e248664bf50a05b",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/10",
@@ -1830,11 +2097,13 @@
         "흑목아",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/10.png",
       "public_path": "scenes/world_places/10.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/10.png",
       "sha256": "3612c330b36e5ee41f7dc32d74923a4326208f8487546a489e0dae39ba90e7a1",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/11",
@@ -1844,11 +2113,13 @@
         "단양",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/11.png",
       "public_path": "scenes/world_places/11.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/11.png",
       "sha256": "7ceb40b24741aedba347763e3759684ecfb3a7c8c4a6ad17a218dfae9b2220e1",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/12",
@@ -1858,11 +2129,13 @@
         "장가계",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/12.png",
       "public_path": "scenes/world_places/12.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/12.png",
       "sha256": "68ac7d1e2179ed6a758a3bb3ef5096cc7dc3b940bdb3d5b031ab5fdc67ec9f9e",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/13",
@@ -1872,11 +2145,13 @@
         "고묘파 표기 건물",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/13.png",
       "public_path": "scenes/world_places/13.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/13.png",
       "sha256": "0ef0f353bf90016d080ab30b907b13e82de35c8bf108326dc87f2afae09b1edd",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/14",
@@ -1886,11 +2161,13 @@
         "빙화곡 표기 설산",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/14.png",
       "public_path": "scenes/world_places/14.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/14.png",
       "sha256": "db785304aadd2357b45e68a67915d09645ea240555dd8bc013772eb4ee382a38",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/15",
@@ -1900,11 +2177,13 @@
         "만리장성",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/15.png",
       "public_path": "scenes/world_places/15.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/15.png",
       "sha256": "e2d8cbf45e47b93f609116f029788680a3af22ca5f9de56480fd0175189cc2df",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/16",
@@ -1914,11 +2193,13 @@
         "동해",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/16.png",
       "public_path": "scenes/world_places/16.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/16.png",
       "sha256": "57e3068f5660c85a3310b2cdd344a63d0a73899a3c51bdfa49b39a5ae5327a80",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/17",
@@ -1928,11 +2209,13 @@
         "도화도",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/17.png",
       "public_path": "scenes/world_places/17.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/17.png",
       "sha256": "e79fe4be12fce36bbf5dc5a205cb06e628617e144cb4424177e3f5ee51b509e6",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/18",
@@ -1942,11 +2225,13 @@
         "영호궁 표기 야경",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/18.png",
       "public_path": "scenes/world_places/18.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/18.png",
       "sha256": "45ace83bdef7bf1cbc66b41b18b6f5c478290f3dfb9c5ab3d499880b44106a68",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/19",
@@ -1956,11 +2241,13 @@
         "전진교 본당 표기 건물",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/19.png",
       "public_path": "scenes/world_places/19.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/19.png",
       "sha256": "c1791dbfecc80d74ebf45c818fa7d54679913451a2566712a752471fa178bbd6",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/20",
@@ -1970,11 +2257,13 @@
         "소왕경 표기 황야",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/20.png",
       "public_path": "scenes/world_places/20.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/20.png",
       "sha256": "1599797687a67aacf606a92ff0890748e691fcda1add0ab38829d087695fbfe4",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/21",
@@ -1984,11 +2273,13 @@
         "태호",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/21.png",
       "public_path": "scenes/world_places/21.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/21.png",
       "sha256": "55a1b00061c94b60fef7be16aab3d9ec41280cf621a34105dcb6814bd5b4fbea",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/22",
@@ -1998,11 +2289,13 @@
         "금륜사 표기 건물",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/22.png",
       "public_path": "scenes/world_places/22.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/22.png",
       "sha256": "df8330fde8786c3dce25d6bb73a64d496ebb093836c4055c3a727b14b01a7163",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/23",
@@ -2012,11 +2305,13 @@
         "사막 대황야",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/23.png",
       "public_path": "scenes/world_places/23.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/23.png",
       "sha256": "2359cc0e944abdf7d265231de9bfd5968da7b5711285a4f6ccdc2095bf3f6366",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/24",
@@ -2026,11 +2321,13 @@
         "오장산 표기 산악",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/24.png",
       "public_path": "scenes/world_places/24.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/24.png",
       "sha256": "bf8cb979b3a34a4129d95a6ed95e830545a9487afcdb8ede3f11cb6bdb19b873",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "world_places/25",
@@ -2040,11 +2337,13 @@
         "곤륜산",
         "참고 그림"
       ],
+      "world": "common",
       "source_path": "references/scenes/world_places/25.png",
       "public_path": "scenes/world_places/25.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/world_places/25.png",
       "sha256": "6f8095c344602f159d3ec3e670ff2e6f2aa15365909c76e5ab46d8776fa3b0c0",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "caves/wuliang_collapsed_chamber",
@@ -2059,11 +2358,14 @@
         "금속봉",
         "무량산"
       ],
+      "world": "wuxia",
+      "origin_chapter": "C001",
       "source_path": "references/scenes/caves/wuliang_collapsed_chamber.png",
       "public_path": "scenes/caves/wuliang_collapsed_chamber.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/caves/wuliang_collapsed_chamber.png",
       "sha256": "95f54dd9a71fb7252a47639a2089d74d99b6f8e161bd1f133525420795e1de7c",
-      "status": "public_pushed"
+      "status": "public_pushed",
+      "publish": "public"
     },
     {
       "id": "town_life/village_hall_morning",
@@ -2079,11 +2381,13 @@
         "공식 진술",
         "배경 참고"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/village_hall_morning.png",
       "public_path": "scenes/town_life/village_hall_morning.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/village_hall_morning.png",
       "sha256": "2ffca84d29960dff2a92310b32afbba579378666b963d61fc8598f8f2e13abef",
       "status": "public_pushed",
+      "publish": "public",
       "usage": "석교촌 등 산촌 회관의 아침 실내·공식 진술 배경. 그림 속 인물은 확정 초상이 아니며 인원·복식·기물을 새 설정으로 저장하지 않는다. 야외·야간·시장·다른 장소에는 사용하지 않는다."
     },
     {
@@ -2098,11 +2402,13 @@
         "운반 수레",
         "배경 참고"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/landscapes/mine_entrance_day.png",
       "public_path": "scenes/landscapes/mine_entrance_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mine_entrance_day.png",
       "sha256": "e5f3b730fe8ad5800e80d33a0a4a013b2225c2371356474c43c4ffeae93eba6a",
       "status": "public_pushed",
+      "publish": "public",
       "usage": "낮의 산속 광산 입구·목재 버팀·운반 수레 배경. 수레 통로가 보이므로 해당 시설이 없는 자연동굴·갱도 내부·야간에는 쓰지 않는다. 광물·보물·인물·사건 발생을 그림으로 확정하지 않는다."
     },
     {
@@ -2117,11 +2423,13 @@
         "채굴 도구",
         "배경 참고"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/landscapes/mine_tunnel_lamplight.png",
       "public_path": "scenes/landscapes/mine_tunnel_lamplight.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mine_tunnel_lamplight.png",
       "sha256": "3230445d60131ade6b9d7c8dcf8103ab77e0276429083b06783dba250dfcf0a7",
       "status": "public_pushed",
+      "publish": "public",
       "usage": "좁은 광산 갱도 내부·목재 버팀·기름등잔·채굴 도구 배경. 무조명·자연동굴·붕괴·침수·광산 외부 장면에는 쓰지 않는다. 광물·보물·인물·사건 발생을 그림으로 확정하지 않는다."
     },
     {
@@ -2136,11 +2444,13 @@
         "목재 발판",
         "배경 참고"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/landscapes/mine_ore_face_lamplight.png",
       "public_path": "scenes/landscapes/mine_ore_face_lamplight.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/mine_ore_face_lamplight.png",
       "sha256": "720b8f1a89a960c842e90ce077ea773fa120874444956ae0cf0c168ad42d3d29",
       "status": "public_pushed",
+      "publish": "public",
       "usage": "등불로 밝힌 광산 내부의 어두운 광맥·암벽 채굴 작업면·목재 발판·바구니 배경. 좁은 통로·외부·무조명·붕괴·침수에는 쓰지 않는다. 광물의 종류·가치·발견 사건을 그림으로 확정하지 않는다."
     },
     {
@@ -2158,12 +2468,14 @@
         "대화",
         "천으로 감싼 봉"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/dali_lianhua_pavilion_conversation_day.png",
       "public_path": "scenes/town_life/dali_lianhua_pavilion_conversation_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/dali_lianhua_pavilion_conversation_day.png",
       "sha256": "e22ebd5b8bd692088239acf6cae3c591fa244f61f91cd2db14800ae7bb5e74cf",
       "status": "public_pushed",
-      "usage": "대리 남호 연화정의 낮 대화·서생 차림 주단신 등장 이후·천으로 감싼 봉이 탁자에 놓인 단계의 장면 참고. 김형무는 은백색 반묶음 장발·흑금 복식 후면. 주단신의 얼굴·연령·복식 색 세부를 새 고정 프로필로 채택하지 않는다. 윤지은·저만리가 프레임 밖인 부분 구도이며 두 사람의 부재나 단둘의 만남을 뜻하지 않는다. 봉을 풀어 검사하는 단계·전투·밤·객잔 내부에는 사용하지 않는다. 봉 정체·기록 내용·결과를 선행 공개하지 않는다."
+      "publish": "public",
+      "usage": "낮 호숫가 정자에서 서생 차림 주단신과 대화하는 장면 참고. 천으로 감싼 봉이 탁자에 놓인 단계. 김형무는 은백색 반묶음 장발·흑금 복식 후면. 주단신의 얼굴·연령·복식 색 세부를 새 고정 프로필로 채택하지 않는다. 프레임 밖 인물의 부재나 단둘의 만남을 뜻하지 않는다. 봉을 풀어 검사하는 단계·전투·밤·실내에는 사용하지 않는다. 봉 정체를 선행 공개하지 않는다."
     },
     {
       "id": "combat/dali_weapon_shop_staff_trial_day",
@@ -2180,12 +2492,14 @@
         "낚싯줄",
         "시험 공방"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/combat/dali_weapon_shop_staff_trial_day.png",
       "public_path": "scenes/combat/dali_weapon_shop_staff_trial_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/dali_weapon_shop_staff_trial_day.png",
       "sha256": "5a9f3181dd7328f40a63005c67952dfe5438b1ab1fefb7292b7257831fe17119",
       "status": "public_pushed",
-      "usage": "낮 대리 원승병기점 흙 후원에서 김형무의 검붉은 장봉과 저만리의 철 낚싯대·줄이 맞서는 공방 참고. 후면 저만리의 미확정 얼굴을 고정하지 않는다. 전시된 창은 배경 물품이지 소지품이 아니다. 승패·부상·봉 신축을 확정하지 않으며 수로·야간·실내·창 대결에는 쓰지 않는다."
+      "publish": "public",
+      "usage": "낮 병기점 흙 후원에서 김형무의 검붉은 장봉과 상대의 철 낚싯대·줄이 맞서는 공방 참고. 후면 인물의 미확정 얼굴을 고정하지 않는다. 전시된 창은 배경 물품이지 소지품이 아니다. 승패·부상·봉 신축을 확정하지 않으며 수로·야간·실내·창 대결에는 쓰지 않는다."
     },
     {
       "id": "town_life/tianlong_library_welcome_day",
@@ -2201,12 +2515,14 @@
         "안내",
         "감싼 봉"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/tianlong_library_welcome_day.png",
       "public_path": "scenes/town_life/tianlong_library_welcome_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/tianlong_library_welcome_day.png",
       "sha256": "a204e39452f34db26a3ed3b14fab692378a30bbdc83b146010368f2096720685",
       "status": "public_pushed",
-      "usage": "낮 천룡사 외원 서고 입구에서 주단신과 혜담이 안내하는 단계. 김형무 은백색 반묶음 장발·흑금 복식, 봉은 불투명 천으로 감춘 상태. 윤지은은 프레임 밖이며 부재·이탈로 처리하지 않는다. 혜담 얼굴·나이·장식의 새 정본이 아닌 부분 장면 참고. 서고 내부 열람·봉 개봉·문자 발현·정체 확인 장면에는 쓰지 않는다. 실제 등장 후 호출하고 입문·가르침·추가 능력·장비를 이미지에서 확정하지 않는다."
+      "publish": "public",
+      "usage": "낮 사찰 외원 서고 입구에서 안내받는 단계의 참고. 김형무 은백색 반묶음 장발·흑금 복식, 봉은 불투명 천으로 감춘 상태. 프레임 밖 인물의 부재·이탈을 뜻하지 않는다. 등장 인물의 얼굴·나이·장식을 새 정본으로 확정하지 않는다. 서고 내부 열람·봉 개봉·문자 발현·정체 확인 장면에는 쓰지 않는다. 실제 등장 후 호출하고 입문·가르침·추가 능력·장비를 이미지에서 확정하지 않는다."
     },
     {
       "id": "town_life/dali_document_room_flowchart_day",
@@ -2223,12 +2539,14 @@
         "순서도",
         "대화"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/dali_document_room_flowchart_day.png",
       "public_path": "scenes/town_life/dali_document_room_flowchart_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/dali_document_room_flowchart_day.png",
       "sha256": "ec9e2eee0a6a0ec0fe3c86157b438676cf3861b144dcc21542872045748a7c4a",
       "status": "public_pushed",
-      "usage": "낮 대리 객상회 문서고에서 안지민이 화물 장부와 네모·화살표 순서도를 설명하는 장면. 안지민 실제 등장 뒤 사용하며 이름·현대 인연·기록 해석을 그림보다 먼저 공개한다. 짙은 갈색 묶은 머리·앞머리·작고 부드러운 얼굴·흰 피부는 기존 프로필 유지. 이 구도는 상대 키 측정 근거가 아니며 MASTER의 작은 키·마른 체형을 변경하지 않는다. 김형무 후면·윤지은 프레임 밖은 동행 이탈을 뜻하지 않는다. 배경 지도·문자·기호를 실제 노선·새 사건으로 확정하지 않는다. 악노삼 습격·회당 전투·야외·밤·목완청 구호 장면에는 제외."
+      "publish": "public",
+      "usage": "낮 상회 문서고 실내에서 안지민이 화물 장부와 네모·화살표 순서도를 설명하는 장면. 안지민 실제 등장 뒤 사용하며 이름·현대 인연·기록 해석을 그림보다 먼저 공개하지 않는다. 짙은 갈색 묶은 머리·앞머리·작고 부드러운 얼굴·흰 피부는 기존 프로필 유지. 이 구도는 키 측정 근거가 아니며 MASTER의 체형 설정을 변경하지 않는다. 프레임 밖 인물은 동행 이탈을 뜻하지 않는다. 배경 지도·문자·기호를 실제 노선·새 사건으로 확정하지 않는다. 야외·밤·전투 장면에는 제외."
     },
     {
       "id": "combat/dali_hall_yue_laosan_standoff_day",
@@ -2239,12 +2557,14 @@
         "낮",
         "악노삼 회당 대치"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/combat/dali_hall_yue_laosan_standoff_day.png",
       "public_path": "scenes/combat/dali_hall_yue_laosan_standoff_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/dali_hall_yue_laosan_standoff_day.png",
       "sha256": "bf6bff5717bfafc9458f5a1bedf1dd5b28d287b69c519c5d11ede4f7d7e3d3c6",
       "status": "public_pushed",
-      "usage": "낮 대리 객상회 실내 회당, 악노삼의 거대 악어가위와 김형무의 포장을 벗긴 검붉은 봉 대치. 실제 악노삼 등장 이후 호출. 야외·밤·천으로 감싼 봉 상태에는 사용하지 않는다. 승패·사망·추가 부상·병기 획득을 그림에서 확정하지 않는다."
+      "publish": "public",
+      "usage": "낮 실내 회당에서 악노삼의 거대 악어가위와 김형무의 포장을 벗긴 검붉은 봉이 대치하는 장면. 실제 악노삼 등장 이후 호출. 야외·밤·천으로 감싼 봉 상태에는 사용하지 않는다. 승패·사망·추가 부상·병기 획득을 그림에서 확정하지 않는다."
     },
     {
       "id": "town_life/dali_duan_yu_mu_wanqing_arrival_day",
@@ -2255,12 +2575,14 @@
         "낮",
         "단예와 부상한 목완청 도착"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/dali_duan_yu_mu_wanqing_arrival_day.png",
       "public_path": "scenes/town_life/dali_duan_yu_mu_wanqing_arrival_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/dali_duan_yu_mu_wanqing_arrival_day.png",
       "sha256": "f90c3eeac6e5394afd6bd307cac02859fc11b59e0e83fb3da5b7a059fa305a4a",
       "status": "public_pushed",
-      "usage": "낮 대리 객상회 앞, 검은 말에서 내린 부상한 목완청을 상처 없는 단예가 부축. 목완청 검은 옷·얼굴 가림 유지. 실제 등장 이후만 호출. 부상자를 뒤바꾸거나 추격·치료 완료·관계·승패를 새 사건으로 확정하지 않는다."
+      "publish": "public",
+      "usage": "낮 건물 앞에서 검은 말에서 내린 부상한 목완청을 상처 없는 단예가 부축하는 장면. 목완청 검은 옷·얼굴 가림 유지. 두 사람이 실제 등장하고 목완청이 부상 상태일 때만 호출. 부상자를 뒤바꾸거나 추격·치료 완료·관계·승패를 새 사건으로 확정하지 않는다."
     },
     {
       "id": "landscapes/wangu_valley_overturned_herb_cart_day",
@@ -2273,12 +2595,14 @@
         "약재",
         "발견"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/landscapes/wangu_valley_overturned_herb_cart_day.png",
       "public_path": "scenes/landscapes/wangu_valley_overturned_herb_cart_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/wangu_valley_overturned_herb_cart_day.png",
       "sha256": "3413d45f02811ccf2402c8bec55517f7544de0341b451c756d3dad0d52abaade",
       "status": "public_pushed",
-      "usage": "낮 만겁곡 외곽 산비탈의 전복된 약재 수레·바퀴 자국·흩어진 약재 발견 참고. 실제 발견을 서술한 뒤 호출. 인물 없는 환경 참고이며 프레임 밖 수레꾼의 부재·생사·구조 결과를 뜻하지 않는다. 수레가 나무에 걸린 정확한 위치·약재 종류·수량은 본편이 우선하며 그림으로 덮어쓰지 않는다. 밤·실내·정상 운송 수레·종령 등장 이미지로 대체 사용하지 않는다."
+      "publish": "public",
+      "usage": "낮 산비탈의 전복된 약재 수레·바퀴 자국·흩어진 약재 발견 참고. 실제 발견을 서술한 뒤 호출. 인물 없는 환경 참고이며 프레임 밖 수레꾼의 부재·생사·구조 결과를 뜻하지 않는다. 수레의 정확한 위치·약재 종류·수량은 본편이 우선하며 그림으로 덮어쓰지 않는다. 밤·실내·정상 운송 수레 장면에는 쓰지 않는다."
     },
     {
       "id": "town_life/wangu_forest_zhong_ling_white_marten_day",
@@ -2292,12 +2616,14 @@
         "흰 담비",
         "등장"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/wangu_forest_zhong_ling_white_marten_day.png",
       "public_path": "scenes/town_life/wangu_forest_zhong_ling_white_marten_day.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_forest_zhong_ling_white_marten_day.png",
       "sha256": "c2a4975997f16b1bde65979f39277603ac7dcd5466532700ea9ef956d1d35078",
       "status": "public_pushed",
-      "usage": "낮 만겁곡 외곽 숲에서 연녹색 옷의 종령이 등장하고 어깨에 작은 흰 담비 섬전초가 있는 장면. 실제 종령 등장 서술 뒤 호출하며 이름·정체를 그림으로 선행 공개하지 않는다. 섬전초는 담비이며 약초가 아니다. 빛나는 약초 발견·채집·신규 기연을 추가하지 않는다. 그림의 장식이나 소지품은 새 획득 근거가 아니며 밤·실내·다른 여성이나 다른 동물로 대체 사용하지 않는다. 종령 얼굴·머리·눈매는 이 검수본과 대조하며 기존 사용자 확정 반실사형 2D 페인팅 톤을 유지한다."
+      "publish": "public",
+      "usage": "낮 숲에서 연녹색 옷의 종령이 등장하고 어깨에 작은 흰 담비 섬전초가 있는 장면. 실제 종령 등장 서술 뒤 호출하며 이름·정체를 그림으로 선행 공개하지 않는다. 섬전초는 담비이며 약초가 아니다. 빛나는 약초 발견·채집·신규 기연을 추가하지 않는다. 그림의 장식·소지품은 새 획득 근거가 아니다. 밤·실내 장면에는 쓰지 않는다. 종령 얼굴·머리·눈매는 이 검수본과 대조하며 반실사형 2D 페인팅 톤을 유지한다."
     },
     {
       "id": "landscapes/wangu_inner_courtyard_passage_afternoon",
@@ -2307,12 +2633,15 @@
         "C021",
         "만겁곡 내부 별원 통로"
       ],
+      "world": "wuxia",
+      "origin_chapter": "C021",
       "source_path": "references/scenes/landscapes/wangu_inner_courtyard_passage_afternoon.png",
       "public_path": "scenes/landscapes/wangu_inner_courtyard_passage_afternoon.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/landscapes/wangu_inner_courtyard_passage_afternoon.png",
       "sha256": "07d116db4c2065cd73a7c9ab3373c695e7fd351117049dfb2fa21ee7856689cd",
       "status": "public_pushed",
-      "usage": "늦은 오후 대숲·석조 담장·별원·통로의 환경 참고. 실제 별원 진입 뒤 호출. 그림의 넓은 계단·입구를 본편의 좁은 바위틈 통로 구조로 덮어쓰거나 추가 경로·시설로 확정하지 않는다. 인물 없는 배경이며 동행 부재를 뜻하지 않는다."
+      "publish": "public",
+      "usage": "늦은 오후 대숲·석조 담장·별원 통로의 환경 참고. 실제 그 통로 진입을 서술한 뒤 호출. 그림의 넓은 계단·입구를 본편의 통로 구조로 덮어쓰거나 추가 경로·시설로 확정하지 않는다. 인물 없는 배경이며 동행 부재를 뜻하지 않는다."
     },
     {
       "id": "town_life/wangu_herb_warehouse_yun_zhonghe_afternoon",
@@ -2322,27 +2651,35 @@
         "C021",
         "만겁곡 약재 창고 운중학"
       ],
+      "world": "wuxia",
+      "origin_chapter": "C021",
       "source_path": "references/scenes/town_life/wangu_herb_warehouse_yun_zhonghe_afternoon.png",
       "public_path": "scenes/town_life/wangu_herb_warehouse_yun_zhonghe_afternoon.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_herb_warehouse_yun_zhonghe_afternoon.png",
       "sha256": "2c9ba0d99e15ab593c24faef7a6352ce5ec0d2137602de2ad77f2764596a0520",
       "status": "public_pushed",
-      "usage": "늦은 오후 약재 창고의 마르고 긴 체구 운중학·약재 수레·결박된 수레꾼 발견 부분 장면. 사용자 외형 자료 이후 수정본만 사용. 실제 발견과 운중학 정체 공개 뒤 호출, 전투 전 상태이며 구조·탈출 뒤 재사용하지 않는다. 프레임에 보이는 한 명을 전체 포로 수로 세지 않으며 본편 수레꾼 셋·철조 병기는 유지한다. 배경 인물은 새 이름·소속·적 병력으로 확정하지 않는다."
+      "publish": "public",
+      "usage": "늦은 오후 약재 창고에서 마르고 긴 체구의 운중학과 약재 수레·결박된 인물을 발견하는 부분 장면. 운중학이 실제로 등장하고 정체가 공개된 뒤 호출하며, 결박 상태가 유지되는 동안만 쓴다. 프레임에 보이는 한 명을 전체 포로 수로 세지 않는다. 배경 인물은 새 이름·소속·적 병력으로 확정하지 않는다.",
+      "review_note": "사용자 외형 자료 반영 수정본만 사용."
     },
     {
-      "id": "town_life/wangu_stone_prison_trap_dusk",
+      "id": "town_life/wangu_stone_prison_trap_dusk_r2",
       "label": "만겁곡 감금 석실 함정",
       "tags": [
         "만겁곡",
         "C021",
         "만겁곡 감금 석실 함정"
       ],
+      "world": "wuxia",
+      "origin_chapter": "C021",
       "source_path": "references/scenes/town_life/wangu_stone_prison_trap_dusk_r2.png",
       "public_path": "scenes/town_life/wangu_stone_prison_trap_dusk_r2.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_stone_prison_trap_dusk_r2.png",
       "sha256": "ec9708905e2dd8022a5d7f99ded4b1f083ab564f1844ce92121f3e0fb125ff75",
       "status": "public_pushed",
-      "usage": "해질녘 인물 없는 감금 석실·침상 두 개·향로·석문과 추/홈의 파괴 전 환경 참고. 함정 발견 이후 파괴 전에만 호출. 단예는 현장에 없으며 이미지로 출현/감금 성공을 확정하지 않는다. 가시 구덩이 없음. 정밀 구조도가 아니므로 본편의 외부 개폐 장치를 우선한다. 구판 대신 이 수정본 URL 사용."
+      "publish": "public",
+      "usage": "해질녘 인물 없는 감금 석실·침상 두 개·향로·석문과 추/홈의 환경 참고. 유사한 감금 시설을 실제로 발견한 뒤, 그 구조가 파괴되기 전에 호출. 가시 구덩이 없음. 정밀 구조도가 아니므로 본편의 개폐 장치 서술을 우선한다. 인물 없는 그림이며 누가 감금됐는지를 확정하지 않는다.",
+      "review_note": "구판 wangu_stone_prison_trap_dusk.png(단예·가시 구덩이 오류본)을 대체. 구판 호출 금지."
     },
     {
       "id": "combat/wangu_duan_yanqing_twin_crutches_dusk",
@@ -2355,12 +2692,15 @@
         "쌍철장",
         "청포"
       ],
+      "world": "wuxia",
+      "origin_chapter": "C021",
       "source_path": "references/scenes/combat/wangu_duan_yanqing_twin_crutches_dusk.png",
       "public_path": "scenes/combat/wangu_duan_yanqing_twin_crutches_dusk.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/wangu_duan_yanqing_twin_crutches_dusk.png",
       "sha256": "85ce63ac9cad28f7b3e65d2d796f0d85955c9f7067d151196dd0097ef697e0fc",
       "status": "public_pushed",
-      "usage": "해질녘 석실 입구의 단연경 등장 인물 참고. 사용자 제공 백발·가면·노년 얼굴과 쌍철장으로 몸을 지탱하는 자세·청포 유지. 실제 등장 뒤 호출하며 걷거나 철퇴를 든 무인으로 바꾸지 않는다. 그림의 문·배경을 본편에서 파괴된 감금장치의 복구로 해석하지 않는다. 얼굴 가면 아래 특징은 미확정, 새 병력·승패·부상·능력은 이미지로 확정하지 않는다."
+      "publish": "public",
+      "usage": "해질녘 석실 입구의 단연경 등장 인물 참고. 백발·가면·노년 얼굴, 쌍철장으로 몸을 지탱하는 자세, 청포 유지. 실제 등장 뒤 호출하며 걷거나 철퇴를 든 무인으로 바꾸지 않는다. 얼굴 가면 아래 특징은 미확정. 새 병력·승패·부상·능력은 이미지로 확정하지 않는다."
     },
     {
       "id": "combat/wangu_staff_twin_crutches_clash_dusk",
@@ -2373,12 +2713,15 @@
         "전투",
         "여의금고봉과 쌍철장 정면 공방"
       ],
+      "world": "wuxia",
+      "origin_chapter": "C022",
       "source_path": "references/scenes/combat/wangu_staff_twin_crutches_clash_dusk.png",
       "public_path": "scenes/combat/wangu_staff_twin_crutches_clash_dusk.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/wangu_staff_twin_crutches_clash_dusk.png",
       "sha256": "48622569a6c2c3c38a4c5251ddc968068af74b6a86247cd500d9bb309471dd57",
       "status": "public_pushed",
-      "usage": "해질녘 만겁곡 석실에서 김형무와 청회색 포·백발·가면의 단연경이 여의금고봉·쌍철장으로 공방. 실제 정면전 서술 뒤만 사용. 승패·사망·추가 병기 획득을 그림으로 확정하지 않는다."
+      "publish": "public",
+      "usage": "해질녘 석실에서 김형무와 청회색 포·백발·가면의 단연경이 여의금고봉과 쌍철장으로 맞서는 정면 공방. 실제 정면전 서술 뒤 호출. 승패·사망·추가 병기 획득을 그림으로 확정하지 않는다."
     },
     {
       "id": "combat/wangu_staff_extension_collapse_dusk",
@@ -2391,12 +2734,15 @@
         "전투",
         "여의금고봉 연장과 석실 붕괴"
       ],
+      "world": "wuxia",
+      "origin_chapter": "C022",
       "source_path": "references/scenes/combat/wangu_staff_extension_collapse_dusk.png",
       "public_path": "scenes/combat/wangu_staff_extension_collapse_dusk.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/combat/wangu_staff_extension_collapse_dusk.png",
       "sha256": "6f0434aa9d96751fdb98d584bfa44526200c6b5d8b0eee87aa49772dd1a27ccb",
       "status": "public_pushed",
-      "usage": "해질녘 석실에서 봉이 길게 연장되고 석벽이 붕괴하는 국면 참고. C022 해당 파괴 서술 뒤만 사용. 단연경 생존 유지, 쓰러진 자세를 사망·완승으로 해석하지 않는다. 굵기·중량 조절·휘어지는 기능을 신규 능력으로 추가하지 않는다."
+      "publish": "public",
+      "usage": "해질녘 석실에서 여의금고봉이 길게 연장되고 석벽이 붕괴하는 국면 참고. 실제 그 파괴를 서술한 뒤 호출. 쓰러진 자세를 사망·완승으로 해석하지 않는다. 굵기·중량 조절·휘어지는 기능을 신규 능력으로 추가하지 않는다."
     },
     {
       "id": "town_life/wangu_escape_yun_jieun_dusk_r1",
@@ -2411,12 +2757,15 @@
         "부축",
         "수레꾼"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/wangu_escape_yun_jieun_dusk_r1.png",
       "public_path": "scenes/town_life/wangu_escape_yun_jieun_dusk_r1.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/wangu_escape_yun_jieun_dusk_r1.png",
       "sha256": "79a645450538d8593b06b8d37280786b64122cd18365a95ded107460712404b0",
       "status": "public_pushed",
-      "usage": "초저녁 만겁곡 비밀통로 밖 산길. 부상한 김형무를 무상인 윤지은이 부축하며 수레꾼이 탈출하는 장면. 수염 오류 수정01만 사용. 그림의 혈흔을 윤지은 부상·추가 인물 사망·새 장비 획득으로 기록하지 않는다. 현재 왕부 객방 실내·치료 완료 상태의 대체 이미지로 쓰지 않는다."
+      "publish": "public",
+      "usage": "초저녁 비밀통로 밖 산길에서, 부상한 김형무를 무상인 윤지은이 부축하고 수레꾼이 함께 탈출하는 장면. 김형무 부상과 윤지은 동행이 실제 상태일 때만 호출. 그림의 혈흔을 윤지은 부상·추가 인물 사망·새 장비 획득으로 기록하지 않는다. 실내·치료 완료 상태의 대체 이미지로 쓰지 않는다.",
+      "review_note": "수염 오류 수정01본만 사용. 이전 생성본은 비공개 검수 보존."
     },
     {
       "id": "town_life/dali_palace_wounded_return_night_r1",
@@ -2431,12 +2780,15 @@
         "귀환",
         "치료 전"
       ],
+      "world": "wuxia",
       "source_path": "references/scenes/town_life/dali_palace_wounded_return_night_r1.png",
       "public_path": "scenes/town_life/dali_palace_wounded_return_night_r1.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/dali_palace_wounded_return_night_r1.png",
       "sha256": "62efae3eea298638a74866ef58732e6cc219084cf46f65228cb874d981dc5b31",
       "status": "public_pushed",
-      "usage": "밤 대리 진남왕부 바깥·내원 진입, 횃불·의원 대기와 부상자 귀환 참고. 김형무 수염·중년화 및 윤지은 중상 오류 수정01. 치료 전 귀환을 서술한 뒤 사용. 의원을 단정순으로 대체하거나 김형무 치료 후의 재출혈·윤지은 부상·새 소지품 획득을 만들지 않는다."
+      "publish": "public",
+      "usage": "밤 대저택·왕부 바깥에서 내원으로 들어서는 부상자 귀환 참고. 횃불과 대기하는 의원. 치료 전 귀환을 서술한 뒤 사용. 의원을 특정 인물로 확정하지 않으며, 치료 후 재출혈·동행자 부상·새 소지품 획득을 만들지 않는다.",
+      "review_note": "김형무 수염·중년화 및 동행자 중상 오류 수정01본만 사용."
     },
     {
       "id": "town_life/c003_hangzhou_boat_cabin_two_cups_night_fix01",
@@ -2450,12 +2802,16 @@
         "두 잔",
         "대화"
       ],
+      "world": "xianxia",
+      "origin_chapter": "C003",
       "source_path": "references/scenes/town_life/c003_hangzhou_boat_cabin_two_cups_night_fix01.png",
       "public_path": "scenes/town_life/c003_hangzhou_boat_cabin_two_cups_night_fix01.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/town_life/c003_hangzhou_boat_cabin_two_cups_night_fix01.png",
       "sha256": "fe036d7865985424e66eb8b55d33ae1e415763318f726ca5bba83f6cd305b296",
       "status": "public_pushed",
-      "usage": "C003 항주 주선의 깊은 밤, 선실에서 두 잔을 사이에 둔 장면의 보정본. 실제 해당 장면 뒤 호출하며 인물 관계·합의·새 사건을 이미지로 추가 확정하지 않는다."
+      "publish": "public",
+      "usage": "깊은 밤 주선 선실에서 두 잔을 사이에 둔 대화 장면. 실제 해당 장면 뒤 호출하며 인물 관계·합의·새 사건을 이미지로 추가 확정하지 않는다.",
+      "review_note": "보정01본."
     },
     {
       "id": "characters/sun_wukong_canonical_fullbody_01",
@@ -2467,11 +2823,13 @@
         "전신",
         "기연 기준"
       ],
+      "world": "common",
       "source_path": "references/scenes/characters/sun_wukong_canonical_fullbody_01.png",
       "public_path": "scenes/characters/sun_wukong_canonical_fullbody_01.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/characters/sun_wukong_canonical_fullbody_01.png",
       "sha256": "151302918bcbd922dc733d9857461d8ec9e3c8bb24e22e33a1c9ce67380300a0",
       "status": "public_pushed",
+      "publish": "public",
       "usage": "선협 MUD의 손오공 고정 외형 참고. 주요 서유기 인물은 기연 역할이며 김용 무협 중심 밸런스를 넘는 상시 동행·직접 개입·무제한 권능을 그림으로 확정하지 않는다."
     },
     {
@@ -2485,11 +2843,13 @@
         "전신",
         "은백색 장발"
       ],
+      "world": "common",
       "source_path": "references/scenes/characters/kim_hyungmoo_origin_power_postgrant_fullbody_01.png",
       "public_path": "scenes/characters/kim_hyungmoo_origin_power_postgrant_fullbody_01.png",
       "raw_url": "https://raw.githubusercontent.com/MaruSalPan/isekai-mud-images/main/scenes/characters/kim_hyungmoo_origin_power_postgrant_fullbody_01.png",
       "sha256": "c293175141bb953a32609eb66027ba6ccf3d122dc2121d3a9686d8124029e466",
       "status": "public_pushed",
+      "publish": "public",
       "usage": "손오공 본원신력 수여 이후 김형무의 고정 외형 참고. 은백색 반묶음 장발과 수염 없는 성인 얼굴을 유지하며, 능력·경지·장비·부상은 본문과 SAVE를 우선하고 그림만으로 추가하지 않는다."
     }
   ]
