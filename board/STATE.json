@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-08T21:00:00Z",
+  "last_updated_by": "codex",
+  "active_world": "xianxia",
+  "worlds": {
+    "xianxia": {
+      "seed": "NG-20260908-FREEWILL-XIYOU-01",
+      "last_chapter": "C006",
+      "next_chapter": "C007",
+      "unsaved_completed_chapters": 0
+    }
+  },
+  "repos": {
+    "private_main": "637049521c37847de53af7def18be29ff45067cd",
+    "public_assets_commit": "5af83c54b12840be855761c49eee234f73d6f1d1",
+    "public_board_commit": "see latest board decision commit"
+  },
+  "assets": {
+    "manifest_version": 2,
+    "registered": 173,
+    "public_png_expected": 173,
+    "source_store": "",
+    "index_path_private": "references/IMAGE_INDEX.md",
+    "manifest_path_public": "public_manifest.json"
+  },
+  "roles": {
+    "progress_chat": "선협 MUD",
+    "rule_validation": "Codex 중앙 관리",
+    "image_generation": "외형 그리기",
+    "resource_management": "이미지 리소스 Git 관리"
+  },
+  "pending": [
+    {
+      "id": "private-ops-rule-edits-upload",
+      "status": "pending",
+      "detail": "ops/rule_edits_20260908.json create call exceeded the 15-second text API cap; verification returned 404; same write path was not retried."
+    },
+    {
+      "id": "exact-edit-skips",
+      "status": "review_required",
+      "detail": "7 of 38 edits skipped because exact source text matched 0 times; see board/decisions/2026-09-08-codex-reply.md."
+    },
+    {
+      "id": "source-store",
+      "status": "unconfigured",
+      "detail": "images.source_store remains empty; mobile binary registration path is not configured."
+    }
+  ]
+}
