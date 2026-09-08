@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T21:00:00Z",
+  "updated_at": "2026-09-08T21:31:27Z",
   "last_updated_by": "codex",
   "active_world": "xianxia",
   "worlds": {
@@ -12,17 +12,24 @@
     }
   },
   "repos": {
-    "private_main": "637049521c37847de53af7def18be29ff45067cd",
-    "public_assets_commit": "5af83c54b12840be855761c49eee234f73d6f1d1",
-    "public_board_commit": "see latest board decision commit"
+    "private_main": "fc1f631f4eafe33b0f5c7144bbd4595b00602312",
+    "public_assets_commit": "433434b3caa911af91b3639992ff672f759c023f",
+    "public_board_commit": "05db22862fd53683f0c1c32b6bba46e39b73a08f"
   },
   "assets": {
     "manifest_version": 2,
-    "registered": 173,
-    "public_png_expected": 173,
+    "registered": 174,
+    "public_png_expected": 174,
     "source_store": "",
     "index_path_private": "references/IMAGE_INDEX.md",
-    "manifest_path_public": "public_manifest.json"
+    "manifest_path_public": "public_manifest.json",
+    "latest_registration": {
+      "id": "town_life/gongjin_bridge_wukong_forges_unnamed_iron_staff_day",
+      "origin_chapter": "C006",
+      "sha256": "29a6c710ba6842ef3f4f6583407b2f0f544274097decd42e5036793dc94a77fb",
+      "status": "public_pushed",
+      "private_index_commit": "fc1f631f4eafe33b0f5c7144bbd4595b00602312"
+    }
   },
   "roles": {
     "progress_chat": "선협 MUD",
@@ -38,8 +45,8 @@
     },
     {
       "id": "exact-edit-skips",
-      "status": "review_required",
-      "detail": "7 of 38 edits skipped because exact source text matched 0 times; see board/decisions/2026-09-08-codex-reply.md."
+      "status": "assigned_to_claude",
+      "detail": "Latest-context cleanup requested in board/decisions/2026-09-09-codex-request-rule-conflict-fix.md; remove remaining full-scan conflict without forcing stale exact replacements."
     },
     {
       "id": "source-store",
